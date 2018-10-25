@@ -1,0 +1,1175 @@
+﻿Log file open, 10/25/18 17:29:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: HistoricalWPU
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(565937976) SRandInit(565937976).
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.256911
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.030s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-R8AA0O3 (192.168.1.187:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:10:52
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Users/Daralene Knight/Desktop/Current Work Files/WindowsNoEditor/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 2097152 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false
+LogInit: Object subsystem initialized
+[2018.10.25-21.29.40:647][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2018.10.25-21.29.40:647][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2018.10.25-21.29.40:656][  0]LogInit: Computer: DESKTOP-R8AA0O3
+[2018.10.25-21.29.40:656][  0]LogInit: User: DaraleneKnight
+[2018.10.25-21.29.40:656][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.25-21.29.40:656][  0]LogInit: High frequency timer resolution =3.328129 MHz
+[2018.10.25-21.29.40:657][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.25-21.29.40:657][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2018.10.25-21.29.40:657][  0]LogMemory: Process Physical Memory: 95.01 MB used, 95.01 MB peak
+[2018.10.25-21.29.40:657][  0]LogMemory: Process Virtual Memory: 106.77 MB used, 106.77 MB peak
+[2018.10.25-21.29.40:657][  0]LogMemory: Physical Memory: 7225.00 MB used,  9094.54 MB free, 16319.54 MB total
+[2018.10.25-21.29.40:657][  0]LogMemory: Virtual Memory: 4474.16 MB used,  9094.54 MB free, 134217728.00 MB total
+[2018.10.25-21.29.40:957][  0]LogInit: Using OS detected language (en-US).
+[2018.10.25-21.29.40:957][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.25-21.29.40:958][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.10.25-21.29.40:958][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2018.10.25-21.29.40:987][  0]LogStreaming: Display: Took  0.029s to EndInitTextLocalization.
+[2018.10.25-21.29.41:014][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.25-21.29.41:014][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.25-21.29.41:021][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.25-21.29.41:091][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.25-21.29.41:092][  0]LogD3D11RHI:       8079/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.25-21.29.41:094][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.25-21.29.41:094][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.25-21.29.41:094][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.25-21.29.41:102][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.25-21.29.41:102][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.25-21.29.41:102][  0]LogWindows: EnumDisplayDevices:
+[2018.10.25-21.29.41:103][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.25-21.29.41:103][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.10.25-21.29.41:103][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.25-21.29.41:104][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.25-21.29.41:104][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.25-21.29.41:104][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.25-21.29.41:104][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.25-21.29.41:104][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.25-21.29.41:104][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.25-21.29.41:147][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.25-21.29.41:147][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.25-21.29.41:147][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.25-21.29.41:208][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.25-21.29.41:272][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.25-21.29.41:273][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.25-21.29.41:274][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.25-21.29.41:274][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.25-21.29.41:337][  0]LogAssetRegistry: FAssetRegistry took 0.0130 seconds to start up
+[2018.10.25-21.29.41:445][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.007062 seconds
+[2018.10.25-21.29.41:446][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2018.10.25-21.29.41:499][  0]LogNetVersion: HistoricalWPU , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1850797864)
+[2018.10.25-21.29.41:702][  0]LogMoviePlayer: Initializing movie player
+[2018.10.25-21.29.41:872][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.25-21.29.41:872][  0]LogOcInput: OculusInput pre-init called
+[2018.10.25-21.29.41:877][  0]LogUObjectArray: 32150 objects as part of root set at end of initial load.
+[2018.10.25-21.29.41:877][  0]LogUObjectAllocator: 5924816 out of 0 bytes used by permanent object pool.
+[2018.10.25-21.29.41:877][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.25-21.29.41:889][  0]LogEngine: Initializing Engine...
+[2018.10.25-21.29.41:904][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.25-21.29.41:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.25-21.29.41:916][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.25-21.29.42:058][  0]LogInit: XAudio2 using 'Headset Earphone (Razer ManO'War)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.25-21.29.42:122][  0]LogInit: FAudioDevice initialized.
+[2018.10.25-21.29.42:133][  0]LogInit: Texture streaming: Enabled
+[2018.10.25-21.29.42:152][  0]LogInit: Display: Game Engine Initialized.
+[2018.10.25-21.29.42:152][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.25-21.29.42:152][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.25-21.29.42:152][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.25-21.29.42:162][  0]LogInit: Display: Starting Game.
+[2018.10.25-21.29.42:162][  0]LogNet: Browse: /Game/Maps/MainMenu?Name=Player
+[2018.10.25-21.29.42:163][  0]LogLoad: LoadMap: /Game/Maps/MainMenu?Name=Player
+[2018.10.25-21.29.42:185][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-21.29.42:186][  0]LogLoad: Game class is 'GameModeBase'
+[2018.10.25-21.29.42:187][  0]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.25-17.29.42
+[2018.10.25-21.29.42:187][  0]LogWorld: Bringing up level for play took: 0.000450
+[2018.10.25-21.29.42:188][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.25-21.29.42:192][  0]LogUMG: Display: Widget Class MainMenu_C - Loaded Fast Template.
+[2018.10.25-21.29.42:194][  0]LogLoad: Took 0.030778 seconds to LoadMap(/Game/Maps/MainMenu)
+[2018.10.25-21.29.42:194][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2018.10.25-21.29.42:282][  0]LogLoad: (Engine Initialization) Total time: 2.34 seconds
+[2018.10.25-21.29.42:344][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2018.10.25-21.29.42:387][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.25-21.29.44:769][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-21.29.44:834][152]LogNet: Browse: /Game/Maps/FirstPersonExampleMap
+[2018.10.25-21.29.44:834][152]LogLoad: LoadMap: /Game/Maps/FirstPersonExampleMap
+[2018.10.25-21.29.44:903][152]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.25-21.29.44:903][152]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.25-21.29.44:906][152]LogWorld: Bringing World /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.25-17.29.44
+[2018.10.25-21.29.44:906][152]LogWorld: Bringing up level for play took: 0.002154
+[2018.10.25-21.29.44:907][152]LogLevel: ActivateLevel /Game/Maps/WPU_Modern 1 1 0
+[2018.10.25-21.29.44:908][152]LogLoad: Took 0.073524 seconds to LoadMap(/Game/Maps/FirstPersonExampleMap)
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_100 has elements that reference missing vertices. MaxVertex=3903, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_101 has elements that reference missing vertices. MaxVertex=3920, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_102 has elements that reference missing vertices. MaxVertex=4032, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_103 has elements that reference missing vertices. MaxVertex=4036, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2202, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2227, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2485, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:981][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3912, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:982][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3916, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3956, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=30, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=213, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=218, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=231, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=242, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=505, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=509, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=2210, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:983][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3884, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=180, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=185, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=198, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=209, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=513, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=517, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3867, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3871, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3871, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3871, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3871, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3871, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3871, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3871, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3871, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3871, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3880, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:984][156]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_52 has elements that reference missing vertices. MaxVertex=3907, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=13, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=22, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=633, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=637, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=641, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=649, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=659, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=663, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=663, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1260, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2259, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2527, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2616, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2622, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2622, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2622, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2622, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2622, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3420, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3428, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3596, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:993][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3600, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=26, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=34, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=730, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=739, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=883, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=918, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1220, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1224, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1224, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1224, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2151, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2151, NumVertices=0
+[2018.10.25-21.29.44:994][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2151, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2151, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2162, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2334, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2364, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2391, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2399, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2399, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2399, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2399, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2399, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2399, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2424, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2429, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2434, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2439, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2444, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2449, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2449, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2449, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2449, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2499, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2504, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2509, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2514, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2519, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2588, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2588, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2588, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2588, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2588, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2588, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2588, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2588, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2643, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:995][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=2651, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=675, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=688, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=823, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1252, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1256, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1256, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1256, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1256, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1256, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1256, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=1256, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:996][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_53 has elements that reference missing vertices. MaxVertex=3457, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_54 has elements that reference missing vertices. MaxVertex=248, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_54 has elements that reference missing vertices. MaxVertex=372, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_54 has elements that reference missing vertices. MaxVertex=525, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_54 has elements that reference missing vertices. MaxVertex=618, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_54 has elements that reference missing vertices. MaxVertex=1130, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_55 has elements that reference missing vertices. MaxVertex=254, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_55 has elements that reference missing vertices. MaxVertex=368, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_55 has elements that reference missing vertices. MaxVertex=521, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_55 has elements that reference missing vertices. MaxVertex=614, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_55 has elements that reference missing vertices. MaxVertex=1094, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_55 has elements that reference missing vertices. MaxVertex=3506, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_55 has elements that reference missing vertices. MaxVertex=3827, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=1909, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=1990, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=1995, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=1995, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=1995, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=1995, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=1995, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=1995, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=2023, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=2231, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=2419, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=2490, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=2490, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_56 has elements that reference missing vertices. MaxVertex=2490, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_57 has elements that reference missing vertices. MaxVertex=1853, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_57 has elements that reference missing vertices. MaxVertex=1853, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_57 has elements that reference missing vertices. MaxVertex=1853, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_57 has elements that reference missing vertices. MaxVertex=2087, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_58 has elements that reference missing vertices. MaxVertex=1905, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_58 has elements that reference missing vertices. MaxVertex=1905, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_58 has elements that reference missing vertices. MaxVertex=1905, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_58 has elements that reference missing vertices. MaxVertex=1905, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_59 has elements that reference missing vertices. MaxVertex=1913, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_59 has elements that reference missing vertices. MaxVertex=1913, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_59 has elements that reference missing vertices. MaxVertex=1913, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_59 has elements that reference missing vertices. MaxVertex=1913, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=1767, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=1767, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=1767, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=1767, NumVertices=0
+[2018.10.25-21.29.44:997][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=1767, NumVertices=0
+[2018.10.25-21.29.44:998][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=1919, NumVertices=0
+[2018.10.25-21.29.44:998][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=2250, NumVertices=0
+[2018.10.25-21.29.44:998][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=2302, NumVertices=0
+[2018.10.25-21.29.44:998][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=2415, NumVertices=0
+[2018.10.25-21.29.44:998][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=2523, NumVertices=0
+[2018.10.25-21.29.44:998][157]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_60 has elements that reference missing vertices. MaxVertex=2627, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_61 has elements that reference missing vertices. MaxVertex=716, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_61 has elements that reference missing vertices. MaxVertex=963, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_62 has elements that reference missing vertices. MaxVertex=1812, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_62 has elements that reference missing vertices. MaxVertex=1812, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_62 has elements that reference missing vertices. MaxVertex=1812, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_62 has elements that reference missing vertices. MaxVertex=1812, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_63 has elements that reference missing vertices. MaxVertex=1817, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_63 has elements that reference missing vertices. MaxVertex=1817, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_63 has elements that reference missing vertices. MaxVertex=1817, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_63 has elements that reference missing vertices. MaxVertex=1817, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_64 has elements that reference missing vertices. MaxVertex=1751, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_64 has elements that reference missing vertices. MaxVertex=1751, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_64 has elements that reference missing vertices. MaxVertex=1751, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_64 has elements that reference missing vertices. MaxVertex=2099, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_64 has elements that reference missing vertices. MaxVertex=2099, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_64 has elements that reference missing vertices. MaxVertex=2099, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=1763, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=2017, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=2059, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=2059, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=2059, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=2059, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=2082, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=2350, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=2350, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_65 has elements that reference missing vertices. MaxVertex=2350, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1583, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1587, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1399, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1405, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1506, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1511, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1599, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:009][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1603, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1616, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1620, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1624, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1628, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1647, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1651, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1655, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1659, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1663, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1312, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1331, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1347, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1347, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1347, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1347, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1347, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1352, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1357, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1435, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1591, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1595, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_66 has elements that reference missing vertices. MaxVertex=1607, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1423, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1524, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1381, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1391, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1409, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1409, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1501, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1515, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1515, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1515, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1515, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1515, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1515, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1515, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1515, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1528, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1548, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1557, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1561, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1455, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1465, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_67 has elements that reference missing vertices. MaxVertex=1553, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_68 has elements that reference missing vertices. MaxVertex=1370, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_69 has elements that reference missing vertices. MaxVertex=1413, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_69 has elements that reference missing vertices. MaxVertex=1519, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=1482, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_70 has elements that reference missing vertices. MaxVertex=1566, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=1486, NumVertices=0
+[2018.10.25-21.29.45:010][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_71 has elements that reference missing vertices. MaxVertex=1570, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=1492, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_72 has elements that reference missing vertices. MaxVertex=1575, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_73 has elements that reference missing vertices. MaxVertex=1612, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_73 has elements that reference missing vertices. MaxVertex=1631, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_74 has elements that reference missing vertices. MaxVertex=1635, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_75 has elements that reference missing vertices. MaxVertex=1639, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_76 has elements that reference missing vertices. MaxVertex=1643, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_77 has elements that reference missing vertices. MaxVertex=1668, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_78 has elements that reference missing vertices. MaxVertex=1674, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3392, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3444, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3452, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3799, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3799, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3799, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3799, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3976, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3980, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3980, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3980, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3980, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3994, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3999, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4048, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4048, NumVertices=0
+[2018.10.25-21.29.45:011][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4048, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4048, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4048, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4051, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:012][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:013][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4055, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=4058, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=2834, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=2834, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3092, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3092, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3095, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3353, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3357, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3366, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3549, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3556, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3556, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3556, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3556, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3556, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3556, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3556, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3758, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3765, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3765, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3765, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3765, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3765, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3765, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3765, NumVertices=0
+[2018.10.25-21.29.45:014][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3946, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3952, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3952, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3952, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3952, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3952, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3952, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3952, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3952, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3956, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3961, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3961, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3961, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3961, NumVertices=0
+[2018.10.25-21.29.45:015][158]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_79 has elements that reference missing vertices. MaxVertex=3961, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=2806, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3177, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3181, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3181, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3193, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3197, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3197, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3197, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3197, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3197, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3197, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3201, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=2864, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3023, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3114, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3848, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3848, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3848, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3848, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3848, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3848, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3848, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=3848, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_80 has elements that reference missing vertices. MaxVertex=2891, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_81 has elements that reference missing vertices. MaxVertex=3631, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_81 has elements that reference missing vertices. MaxVertex=3631, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_81 has elements that reference missing vertices. MaxVertex=3631, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_81 has elements that reference missing vertices. MaxVertex=3631, NumVertices=0
+[2018.10.25-21.29.45:025][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_81 has elements that reference missing vertices. MaxVertex=3631, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_82 has elements that reference missing vertices. MaxVertex=2858, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_82 has elements that reference missing vertices. MaxVertex=2960, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_82 has elements that reference missing vertices. MaxVertex=2960, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_82 has elements that reference missing vertices. MaxVertex=3019, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_83 has elements that reference missing vertices. MaxVertex=2923, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=3123, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_84 has elements that reference missing vertices. MaxVertex=3591, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_85 has elements that reference missing vertices. MaxVertex=3128, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_86 has elements that reference missing vertices. MaxVertex=3165, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_87 has elements that reference missing vertices. MaxVertex=3204, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_88 has elements that reference missing vertices. MaxVertex=3209, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_89 has elements that reference missing vertices. MaxVertex=3216, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_90 has elements that reference missing vertices. MaxVertex=3221, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_91 has elements that reference missing vertices. MaxVertex=3369, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_92 has elements that reference missing vertices. MaxVertex=3373, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_93 has elements that reference missing vertices. MaxVertex=3379, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_93 has elements that reference missing vertices. MaxVertex=4040, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_94 has elements that reference missing vertices. MaxVertex=3384, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_95 has elements that reference missing vertices. MaxVertex=3435, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_96 has elements that reference missing vertices. MaxVertex=3832, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_97 has elements that reference missing vertices. MaxVertex=3854, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_98 has elements that reference missing vertices. MaxVertex=3859, NumVertices=0
+[2018.10.25-21.29.45:026][159]LogModelComponent: Model /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_99 has elements that reference missing vertices. MaxVertex=3896, NumVertices=0
+[2018.10.25-21.29.48:058][347]LogUMG: Display: Widget Class NoteMenu_C - Loaded Fast Template.
+[2018.10.25-21.29.50:993][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.25-21.29.51:091][535]LogNet: Browse: /Game/Maps/MainMenu
+[2018.10.25-21.29.51:092][535]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2018.10.25-21.29.51:126][535]LogAIModule: Creating AISystem for world MainMenu
+[2018.10.25-21.29.51:126][535]LogLoad: Game class is 'GameModeBase'
+[2018.10.25-21.29.51:128][535]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2018.10.25-17.29.51
+[2018.10.25-21.29.51:128][535]LogWorld: Bringing up level for play took: 0.000310
+[2018.10.25-21.29.51:128][535]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.25-21.29.51:128][535]LogUMG: Display: Widget Class MainMenu_C - Loaded Fast Template.
+[2018.10.25-21.29.51:129][535]LogLoad: Took 0.038040 seconds to LoadMap(/Game/Maps/MainMenu)
+[2018.10.25-21.29.52:244][605]Closing by request
+[2018.10.25-21.29.52:244][605]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.10.25-21.29.52:910][606]LogSlate: Request Window 'HistoricalWPU (64-bit, PCD3D_SM5) ' being destroyed
+[2018.10.25-21.29.52:944][606]LogSlate: Window 'HistoricalWPU (64-bit, PCD3D_SM5) ' being destroyed
+[2018.10.25-21.29.52:956][606]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.25-21.29.53:018][606]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.25-21.29.53:018][606]LogExit: Preparing to exit.
+[2018.10.25-21.29.53:018][606]LogMoviePlayer: Shutting down movie player
+[2018.10.25-21.29.53:029][606]LogExit: Game engine shut down
+[2018.10.25-21.29.53:053][606]LogExit: Object subsystem successfully closed.
+[2018.10.25-21.29.53:081][606]LogD3D11RHI: Shutdown
+[2018.10.25-21.29.53:081][606]LogD3D11RHI: CleanupD3DDevice
+[2018.10.25-21.29.53:113][606]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module AutomationController (176)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module AutomationWorker (174)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module AIModule (172)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module GameplayDebugger (171)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (168)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (166)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (164)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (162)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module CharacterAI (160)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module SessionServices (158)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (156)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module MovieScene (154)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module GeometryCache (152)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (150)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module AnalyticsET (148)
+[2018.10.25-21.29.53:113][606]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module TaskGraph (144)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module SteamVRController (142)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (136)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (134)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module CableComponent (132)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module AudioCapture (130)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module AndroidPermission (126)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module MediaCompositing (122)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module LinearTimecode (120)
+[2018.10.25-21.29.53:150][606]LogModuleManager: Shutting down and abandoning module ImgMedia (118)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module HTML5Networking (116)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module DatasmithContent (114)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (112)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module PhysXVehicles (110)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (108)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (106)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module ActorSequence (104)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module UdpMessaging (102)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module TcpMessaging (100)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module FacialAnimation (98)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (96)
+[2018.10.25-21.29.53:162][606]LogModuleManager: Shutting down and abandoning module LiveLink (94)
+[2018.10.25-21.29.53:780][606]LogModuleManager: Shutting down and abandoning module Paper2D (92)
+[2018.10.25-21.29.53:780][606]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (90)
+[2018.10.25-21.29.53:780][606]LogModuleManager: Shutting down and abandoning module WmfMedia (88)
+[2018.10.25-21.29.53:780][606]LogModuleManager: Shutting down and abandoning module PacketHandler (86)
+[2018.10.25-21.29.53:780][606]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (84)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module MediaAssets (82)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module Overlay (80)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module UMG (78)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module SlateReflector (76)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module MRMesh (72)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module Messaging (70)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (68)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module XAudio2 (66)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module Networking (64)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module Core (62)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module LevelSequence (60)
+[2018.10.25-21.29.53:781][606]LogModuleManager: Shutting down and abandoning module Media (58)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module ImageWrapper (54)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module InputCore (52)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module PhysXCooking (50)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module SteamVR (48)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module OculusHMD (46)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (44)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module AppleARKit (42)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module AugmentedReality (39)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (34)
+[2018.10.25-21.29.53:787][606]LogModuleManager: Shutting down and abandoning module HTTP (33)
+[2018.10.25-21.29.53:787][606]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.25-21.29.53:787][606]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC32D957-4222-D166-EBFE-14880FA5B6F0%7D&AppID=UEGame.Rocket.Release%7CD41776AD4B57535BFDD82A932291FDA0%7CUE4Game&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=ANON-%7B920708B3-4B11-40FB-CF02-AAADEA7B61F5%7D%7C%7C&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.25-21.29.53:815][606]LogModuleManager: Shutting down and abandoning module SSL (32)
+[2018.10.25-21.29.53:815][606]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.25-21.29.53:815][606]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.25-21.29.53:815][606]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.25-21.29.53:816][606]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.25-21.29.53:818][606]LogExit: Exiting.
+[2018.10.25-21.29.53:819][606]Log file closed, 10/25/18 17:29:53
