@@ -1,0 +1,819 @@
+﻿Log file open, 11/08/18 16:24:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: HistoricalWPU
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(18070232) SRandInit(18070233).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.622179
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.066s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am WK-B7YMPD2 (10.100.98.88:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.08-21.24.21:938][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.08-21.24.21:938][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.08-21.24.21:974][  0]LogInit: Computer: WK-B7YMPD2
+[2018.11.08-21.24.21:974][  0]LogInit: User: kakesterke
+[2018.11.08-21.24.21:974][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.08-21.24.21:974][  0]LogInit: High frequency timer resolution =2.648439 MHz
+[2018.11.08-21.24.21:974][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.08-21.24.21:974][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.08-21.24.21:974][  0]LogMemory: Process Physical Memory: 277.78 MB used, 277.78 MB peak
+[2018.11.08-21.24.21:974][  0]LogMemory: Process Virtual Memory: 274.72 MB used, 274.72 MB peak
+[2018.11.08-21.24.21:974][  0]LogMemory: Physical Memory: 7577.27 MB used,  8709.63 MB free, 16286.90 MB total
+[2018.11.08-21.24.21:974][  0]LogMemory: Virtual Memory: 4835.24 MB used,  8709.63 MB free, 134217728.00 MB total
+[2018.11.08-21.24.22:663][  0]LogInit: Using OS detected language (en-US).
+[2018.11.08-21.24.22:663][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.08-21.24.22:783][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.08-21.24.23:497][  0]LogStreaming: Display: Took  0.835s to EndInitTextLocalization.
+[2018.11.08-21.24.23:497][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.08-21.24.23:663][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.08-21.24.23:663][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.08-21.24.27:415][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.08-21.24.27:472][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.11.08-21.24.27:472][  0]LogD3D11RHI:       8079/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.08-21.24.27:481][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.08-21.24.27:481][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.08-21.24.27:483][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.08-21.24.27:483][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.08-21.24.27:483][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.08-21.24.27:491][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.08-21.24.27:491][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.08-21.24.27:491][  0]LogWindows: EnumDisplayDevices:
+[2018.11.08-21.24.27:491][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.11.08-21.24.27:491][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.11.08-21.24.27:492][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.08-21.24.27:492][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.08-21.24.27:492][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.08-21.24.27:492][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.08-21.24.27:492][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.08-21.24.27:492][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.08-21.24.27:492][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.11.08-21.24.27:492][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.08-21.24.27:492][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.08-21.24.27:492][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.11.08-21.24.27:530][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.08-21.24.27:530][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.08-21.24.27:530][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.08-21.24.27:549][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.08-21.24.27:594][  0]LogShaderCompilers: Guid format shader working directory is -51 characters bigger than the processId version (../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Intermediate/Shaders/WorkingDirectory/12768/).
+[2018.11.08-21.24.27:594][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kakesterke/AppData/Local/Temp/UnrealShaderWorkingDir/52B457594BA6805F4B861CBED10322AD/'.
+[2018.11.08-21.24.29:085][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.08-21.24.29:099][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.08-21.24.29:111][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.08-21.24.29:125][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.08-21.24.29:156][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.08-21.24.29:169][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.08-21.24.29:183][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.08-21.24.29:197][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.08-21.24.29:203][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.08-21.24.29:216][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.08-21.24.29:228][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.08-21.24.29:240][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.08-21.24.29:252][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.08-21.24.29:265][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.08-21.24.29:278][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.08-21.24.29:304][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.08-21.24.29:304][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.08-21.24.29:321][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.08-21.24.29:322][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.08-21.24.29:410][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.08-21.24.29:422][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.08-21.24.29:435][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.08-21.24.29:447][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.08-21.24.29:460][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.08-21.24.29:478][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.08-21.24.29:478][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.08-21.24.30:212][  0]LogXGEController: Cleaning working directory: C:/Users/kakesterke/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.08-21.24.30:212][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.08-21.24.30:212][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.08-21.24.30:212][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.08-21.24.32:554][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.08-21.24.32:813][  0]LogDerivedDataCache: Loaded boot cache 0.26s 74MB C:/Users/kakesterke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.08-21.24.32:813][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kakesterke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.08-21.24.32:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.08-21.24.32:813][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.08-21.24.32:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.08-21.24.32:813][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.08-21.24.32:857][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.08-21.24.32:870][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kakesterke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.08-21.24.32:870][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.08-21.24.32:870][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.08-21.24.32:882][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.08-21.24.32:883][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.08-21.24.32:915][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.08-21.24.32:915][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.08-21.24.39:021][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.11.08-21.24.40:433][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.08-21.24.40:876][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.08-21.24.40:878][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.08-21.24.40:878][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.08-21.24.40:878][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.08-21.24.40:878][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.08-21.24.40:878][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.08-21.24.40:930][  0]LogNetVersion: HistoricalWPU , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1850797864)
+[2018.11.08-21.24.41:976][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.087506 seconds
+[2018.11.08-21.24.41:983][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.08-21.24.41:983][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.11.08-21.24.41:983][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.08-21.24.58:297][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.08-21.24.58:366][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.08-21.24.59:265][  0]SourceControl: Source control is disabled
+[2018.11.08-21.24.59:265][  0]SourceControl: Source control is disabled
+[2018.11.08-21.24.59:341][  0]SourceControl: Source control is disabled
+[2018.11.08-21.24.59:360][  0]SourceControl: Source control is disabled
+[2018.11.08-21.25.00:464][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.08-21.25.00:746][  0]LogOcInput: OculusInput pre-init called
+[2018.11.08-21.25.00:954][  0]LogEngine: Initializing Engine...
+[2018.11.08-21.25.00:955][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.08-21.25.00:957][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.08-21.25.00:957][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.08-21.25.01:309][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.08-21.25.01:335][  0]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.08-21.25.01:405][  0]LogInit: FAudioDevice initialized.
+[2018.11.08-21.25.01:473][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/kakesterke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.08-21.25.01:487][  0]LogInit: Texture streaming: Enabled
+[2018.11.08-21.25.01:551][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.08-21.25.01:574][  0]LogInit: Transaction tracking system initialized
+[2018.11.08-21.25.01:832][  0]BlueprintLog: New page: Editor Load
+[2018.11.08-21.25.02:399][  0]LocalizationService: Localization service is disabled
+[2018.11.08-21.25.02:894][  0]LogConsoleResponse: Display: 
+[2018.11.08-21.25.04:617][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.08-21.25.04:617][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.08-21.25.04:617][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.08-21.25.04:617][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.08-21.25.04:617][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.08-21.25.05:249][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/' took 0.13s
+[2018.11.08-21.25.06:407][  0]SourceControl: Source control is disabled
+[2018.11.08-21.25.06:408][  0]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.08-21.25.06:430][  0]LightingResults: New page: Lighting Build
+[2018.11.08-21.25.06:432][  0]MapCheck: New page: Map Check
+[2018.11.08-21.25.06:432][  0]LightingResults: New page: Lighting Build
+[2018.11.08-21.25.06:691][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027032682c30, Size=4, Default__MainMenu_C Function /Game/FirstPersonBP/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.08-21.25.06:836][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027032682c30, Size=4
+[2018.11.08-21.25.06:836][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027032682c30, Size=4, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_0:ExecuteUbergraph_MainMenu
+[2018.11.08-21.25.06:854][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027032682b40, Size=4, Default__MainMenu_C Function /Game/FirstPersonBP/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.08-21.25.06:857][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027031637d18, Size=24, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.08-21.25.06:873][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027031637d18, Size=24
+[2018.11.08-21.25.06:873][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027031637d18, Size=24, MainMenu_C_0 Function /Engine/Transient.REINST_MainMenu_C_2:ExecuteUbergraph_MainMenu
+[2018.11.08-21.25.06:949][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027031637a00, Size=24, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.08-21.25.07:059][  0]LogTexture: Display: Building textures: MainMenu_BG (BGRA8, 1313X653)
+[2018.11.08-21.25.07:059][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.08-21.25.07:060][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.08-21.25.07:078][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027032682c30, Size=4
+[2018.11.08-21.25.07:078][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027031637d18, Size=24
+[2018.11.08-21.25.07:078][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.08-21.25.07:114][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.336ms to complete.
+[2018.11.08-21.25.07:114][  0]LogFileHelpers: Loading map 'MainMenu' took 0.706
+[2018.11.08-21.25.07:443][  0]LogCollectionManager: Loaded 0 collections in 0.009150 seconds
+[2018.11.08-21.25.07:534][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Collections/' took 0.01s
+[2018.11.08-21.25.07:534][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Developers/kakesterke/Collections/' took 0.01s
+[2018.11.08-21.25.07:534][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Collections/' took 0.01s
+[2018.11.08-21.25.07:534][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.08-21.25.07:544][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2452 classes and 558 folders.
+[2018.11.08-21.25.07:549][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.08-21.25.09:138][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.08-21.25.09:152][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.08-21.25.09:214][  0]LogSlate: Took 0.026551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.08-21.25.09:263][  0]LogSlate: Took 0.045332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.08-21.25.09:375][  0]LogSlate: Took 0.106785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.08-21.25.09:551][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.08-21.25.09:800][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.08-21.25.09:800][  0]LogLoad: (Engine Initialization) Total time: 59.01 seconds
+[2018.11.08-21.25.09:800][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.08-21.25.10:172][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.08-21.25.10:302][  0]LogSlate: Took 0.045242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.08-21.25.15:473][ 16]LogFileCache: Retrieving MD5 hashes for directory 'D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/' took 5.32s
+[2018.11.08-21.25.18:476][ 25]LogAssetRegistry: Asset discovery search completed in 39.4777 seconds
+[2018.11.08-21.25.18:495][ 25]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.08-21.25.18:495][ 25]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.11.08-21.25.18:845][ 26]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.08-21.25.30:234][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.25.30:613][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002703ebef1f0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.08-21.25.30:621][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002703ebef1f0, Size=72
+[2018.11.08-21.25.30:622][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002703e07dda0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.08-21.25.30:629][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002703dc82340, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.08-21.25.30:917][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270409b0d00, Size=664, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.11.08-21.25.30:918][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002703dcaabf0, Size=16, Default__NoteMenu_C Function /Game/FirstPersonBP/Blueprints/NoteMenu.NoteMenu_C:ExecuteUbergraph_NoteMenu
+[2018.11.08-21.25.30:927][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002703dcaab60, Size=16, Default__Credits_C Function /Game/FirstPersonBP/Blueprints/Credits.Credits_C:ExecuteUbergraph_Credits
+[2018.11.08-21.25.30:952][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002703dcaab60, Size=16
+[2018.11.08-21.25.30:952][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002703dcaab60, Size=16, Default__Credits_C Function /Engine/Transient.REINST_Credits_C_1:ExecuteUbergraph_Credits
+[2018.11.08-21.25.30:953][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000270409b0d00, Size=664
+[2018.11.08-21.25.30:953][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027040557700, Size=664, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_11:ExecuteUbergraph_FirstPersonCharacter
+[2018.11.08-21.25.30:953][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002703dcaabf0, Size=16
+[2018.11.08-21.25.30:953][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002703dcaabf0, Size=16, Default__NoteMenu_C Function /Engine/Transient.REINST_NoteMenu_C_2:ExecuteUbergraph_NoteMenu
+[2018.11.08-21.25.30:987][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002704051f1f0, Size=16, Default__Credits_C Function /Game/FirstPersonBP/Blueprints/Credits.Credits_C:ExecuteUbergraph_Credits
+[2018.11.08-21.25.30:989][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270404cee00, Size=664, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.11.08-21.25.31:021][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002704051ee40, Size=16, Default__NoteMenu_C Function /Game/FirstPersonBP/Blueprints/NoteMenu.NoteMenu_C:ExecuteUbergraph_NoteMenu
+[2018.11.08-21.25.31:033][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270404b27f0, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.11.08-21.25.31:036][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000270404b27f0, Size=52
+[2018.11.08-21.25.31:036][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270404b27f0, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_15:ExecuteUbergraph_FirstPersonHUD
+[2018.11.08-21.25.31:038][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270404b28d0, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.11.08-21.25.31:072][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270343b2088, Size=4, Default__FirstPersonExampleMap_C Function /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.08-21.25.31:072][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000270343b2088, Size=4
+[2018.11.08-21.25.31:073][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270343b2088, Size=4, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_19:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.08-21.25.31:073][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270343b30a0, Size=4, Default__FirstPersonExampleMap_C Function /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.08-21.25.31:469][282]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.11.08-21.25.31:469][282]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.11.08-21.25.31:469][282]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2018.11.08-21.25.31:469][282]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 32X32)
+[2018.11.08-21.25.31:541][282]LogSkeletalMesh: Skeletal Mesh found in DDC [17.404593ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.11.08-21.25.31:625][282]LogSkeletalMesh: Skeletal Mesh found in DDC [5.516457ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.11.08-21.25.31:692][282]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.08-21.25.31:737][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002703e07dda0, Size=72
+[2018.11.08-21.25.31:737][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027040557700, Size=664
+[2018.11.08-21.25.31:737][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002703dcaabf0, Size=16
+[2018.11.08-21.25.31:737][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002703dcaab60, Size=16
+[2018.11.08-21.25.31:737][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000270404b27f0, Size=52
+[2018.11.08-21.25.31:737][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000270343b2088, Size=4
+[2018.11.08-21.25.31:751][282]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.08-21.25.31:751][282]LightingResults: New page: Lighting Build
+[2018.11.08-21.25.31:752][282]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.11.08-21.25.31:763][282]MapCheck: New page: Map Check
+[2018.11.08-21.25.31:764][282]LightingResults: New page: Lighting Build
+[2018.11.08-21.25.31:776][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027031637a00, Size=24
+[2018.11.08-21.25.31:805][282]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WPU_Modern) is flushing async loading
+[2018.11.08-21.25.31:843][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270343b0910, Size=4, Default__Pen_C Function /Game/Objects/NoteObjects/Pen.Pen_C:ExecuteUbergraph_Pen
+[2018.11.08-21.25.31:845][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000270343b0910, Size=4
+[2018.11.08-21.25.31:845][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270343b0910, Size=4, Default__Pen_C Function /Engine/Transient.REINST_Pen_C_21:ExecuteUbergraph_Pen
+[2018.11.08-21.25.31:859][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270343b07b8, Size=4, Default__Pen_C Function /Game/Objects/NoteObjects/Pen.Pen_C:ExecuteUbergraph_Pen
+[2018.11.08-21.25.31:862][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027040caa110, Size=76, Default__LevelSwitchFade_C Function /Game/FirstPersonBP/Blueprints/LevelSwitchFade.LevelSwitchFade_C:ExecuteUbergraph_LevelSwitchFade
+[2018.11.08-21.25.31:865][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027040caa110, Size=76
+[2018.11.08-21.25.31:865][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027040ca9580, Size=76, Default__LevelSwitchFade_C Function /Engine/Transient.REINST_LevelSwitchFade_C_3:ExecuteUbergraph_LevelSwitchFade
+[2018.11.08-21.25.31:866][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027040ca8450, Size=76, Default__LevelSwitchFade_C Function /Game/FirstPersonBP/Blueprints/LevelSwitchFade.LevelSwitchFade_C:ExecuteUbergraph_LevelSwitchFade
+[2018.11.08-21.25.31:949][282]LogUObjectGlobals: Created PersistentFrame Addr=0x00000270404918f0, Size=80, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.08-21.25.31:951][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000270404918f0, Size=80
+[2018.11.08-21.25.31:951][282]LogUObjectGlobals: Created PersistentFrame Addr=0x000002703ebed1c0, Size=80, Default__WPU_Modern_C Function /Engine/Transient.REINST_WPU_Modern_C_24:ExecuteUbergraph_WPU_Modern
+[2018.11.08-21.25.31:966][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027031639210, Size=80, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.08-21.25.32:071][282]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.11.08-21.25.32:071][282]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.11.08-21.25.32:110][282]LogStaticMesh: Building static mesh Enterance_Door...
+[2018.11.08-21.25.32:136][282]LogStaticMesh: Built static mesh [0.03s] /Game/Objects/Meshes/Enterance_Door.Enterance_Door
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X64)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 32X32)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: Wall1 (AutoDXT, 2048X2048)
+[2018.11.08-21.25.38:387][282]LogTexture: Display: Building textures: WOODFLOOR (AutoDXT, 4096X4096)
+[2018.11.08-21.25.38:387][282]LogMaterial: Missing cached shader map for material Wall_Mat, compiling. 
+[2018.11.08-21.25.50:680][282]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.08-21.25.50:680][282]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.08-21.25.50:680][282]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.08-21.25.50:680][282]LogMaterial: Missing cached shader map for material Wood_Floor_Mat, compiling. 
+[2018.11.08-21.25.50:702][282]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.11.08-21.25.50:713][282]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.08-21.25.50:713][282]LogAudioDerivedData: Display: Building compressed audio format OGG wave Past...
+[2018.11.08-21.25.50:798][282]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WPU_Past) is flushing async loading
+[2018.11.08-21.25.50:827][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027057e53df8, Size=4, Default__Book_C Function /Game/Objects/NoteObjects/Book.Book_C:ExecuteUbergraph_Book
+[2018.11.08-21.25.50:829][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027057e53df8, Size=4
+[2018.11.08-21.25.50:829][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027057e53df8, Size=4, Default__Book_C Function /Engine/Transient.REINST_Book_C_26:ExecuteUbergraph_Book
+[2018.11.08-21.25.50:830][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027057e53ca8, Size=4, Default__Book_C Function /Game/Objects/NoteObjects/Book.Book_C:ExecuteUbergraph_Book
+[2018.11.08-21.25.50:895][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027057f2e660, Size=80, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.08-21.25.50:898][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027057f2e660, Size=80
+[2018.11.08-21.25.50:898][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027057f2d530, Size=80, Default__WPU_Past_C Function /Engine/Transient.REINST_WPU_Past_C_28:ExecuteUbergraph_WPU_Past
+[2018.11.08-21.25.50:900][282]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027057f2c2c0, Size=80, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.08-21.25.50:947][282]LogStaticMesh: Building static mesh Bed_Frame...
+[2018.11.08-21.25.50:993][282]LogStaticMesh: Built static mesh [0.05s] /Game/Objects/Meshes/Bed_Frame.Bed_Frame
+[2018.11.08-21.25.51:006][282]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.11.08-21.25.51:014][282]LogAudioDerivedData: Display: Building compressed audio format OGG wave Future...
+[2018.11.08-21.25.51:045][282]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.08-21.25.51:061][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000270343b0910, Size=4
+[2018.11.08-21.25.51:061][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027057f2d530, Size=80
+[2018.11.08-21.25.51:061][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027057e53df8, Size=4
+[2018.11.08-21.25.51:061][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002703ebed1c0, Size=80
+[2018.11.08-21.25.51:061][282]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027040ca9580, Size=76
+[2018.11.08-21.25.51:090][282]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.08-21.25.51:138][282]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.767ms to complete.
+[2018.11.08-21.25.51:138][282]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 19.400
+[2018.11.08-21.25.58:766][283]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.11.08-21.25.58:766][283]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.11.08-21.25.58:766][283]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.11.08-21.25.58:766][283]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.11.08-21.25.58:766][283]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.11.08-21.25.58:766][283]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.11.08-21.25.58:767][283]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.08-21.25.58:767][283]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.08-21.26.03:768][785]AssetReimport: New page: Outstanding source content changes 11:26:03 AM
+[2018.11.08-21.26.03:798][786]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightBig.fbx)
+[2018.11.08-21.26.03:824][786]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.11.08-21.26.03:824][786]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.11.08-21.26.03:824][786]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.11.08-21.26.03:824][786]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.11.08-21.26.03:824][786]LogFbx: ItemName: Material, ItemCount : 1
+[2018.11.08-21.26.03:824][786]LogFbx: ItemName: Model, ItemCount : 1
+[2018.11.08-21.26.03:830][786]LogFbx: Loading FBX Scene from D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightBig.fbx
+[2018.11.08-21.26.03:837][786]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-21.26.12:279][786]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.08-21.26.12:371][786]LogFbx: Loading FBX Scene from D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightBig.fbx
+[2018.11.08-21.26.12:377][786]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-21.26.12:399][786]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.11.08-21.26.12:442][786]LogStaticMesh: Building static mesh LightBig...
+[2018.11.08-21.26.12:447][786]LogStaticMesh: Built static mesh [0.01s] /Game/LightBig.LightBig
+[2018.11.08-21.26.12:552][787]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightSmall.fbx)
+[2018.11.08-21.26.12:555][787]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.11.08-21.26.12:555][787]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.11.08-21.26.12:555][787]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.11.08-21.26.12:555][787]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.11.08-21.26.12:555][787]LogFbx: ItemName: Material, ItemCount : 1
+[2018.11.08-21.26.12:555][787]LogFbx: ItemName: Model, ItemCount : 1
+[2018.11.08-21.26.12:560][787]LogFbx: Loading FBX Scene from D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightSmall.fbx
+[2018.11.08-21.26.12:566][787]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-21.26.15:105][787]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.08-21.26.15:155][787]LogFbx: Loading FBX Scene from D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightSmall.fbx
+[2018.11.08-21.26.15:161][787]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-21.26.15:165][787]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.11.08-21.26.15:191][787]LogStaticMesh: Building static mesh LightSmall...
+[2018.11.08-21.26.15:196][787]LogStaticMesh: Built static mesh [0.01s] /Game/LightSmall.LightSmall
+[2018.11.08-21.26.15:223][788]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/Bench.fbx)
+[2018.11.08-21.26.15:226][788]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.11.08-21.26.15:227][788]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.11.08-21.26.15:227][788]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.11.08-21.26.15:227][788]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.11.08-21.26.15:227][788]LogFbx: ItemName: Material, ItemCount : 1
+[2018.11.08-21.26.15:227][788]LogFbx: ItemName: Implementation, ItemCount : 1
+[2018.11.08-21.26.15:227][788]LogFbx: ItemName: BindingTable, ItemCount : 1
+[2018.11.08-21.26.15:227][788]LogFbx: ItemName: Texture, ItemCount : 6
+[2018.11.08-21.26.15:227][788]LogFbx: ItemName: Model, ItemCount : 1
+[2018.11.08-21.26.15:227][788]LogFbx: ItemName: Video, ItemCount : 6
+[2018.11.08-21.26.15:247][788]LogFbx: Loading FBX Scene from D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/Bench.fbx
+[2018.11.08-21.26.15:258][788]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-21.26.18:861][788]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.08-21.26.18:893][788]LogFbx: Loading FBX Scene from D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/Bench.fbx
+[2018.11.08-21.26.18:903][788]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-21.26.18:908][788]LogMaterial: Missing cached shader map for material StingrayPBS1, compiling. 
+[2018.11.08-21.26.18:931][788]LogStaticMesh: Building static mesh Bench...
+[2018.11.08-21.26.18:941][788]LogStaticMesh: Built static mesh [0.01s] /Game/BENCH1/Bench.Bench
+[2018.11.08-21.26.20:411][789]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/lambert1_Base_Color.png)
+[2018.11.08-21.26.21:127][790]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/lambert1_Metallic.png)
+[2018.11.08-21.26.21:280][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/lambert1_Roughness.png)
+[2018.11.08-21.26.21:611][792]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/FLAG.jpg)
+[2018.11.08-21.26.21:803][793]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/Wall1.jpg)
+[2018.11.08-21.26.26:191][794]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/WhiteWall.jpg)
+[2018.11.08-21.26.27:433][795]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/SIGN/Sign.fbx)
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: Material, ItemCount : 1
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: Model, ItemCount : 2
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: AnimationCurveNode, ItemCount : 8
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: AnimationCurve, ItemCount : 20
+[2018.11.08-21.26.27:437][795]LogFbx: ItemName: Video, ItemCount : 1
+[2018.11.08-21.26.27:443][795]LogFbx: Loading FBX Scene from D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/SIGN/Sign.fbx
+[2018.11.08-21.26.27:451][795]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-21.26.31:842][795]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.11.08-21.26.31:903][795]LogFbx: Loading FBX Scene from D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/SIGN/Sign.fbx
+[2018.11.08-21.26.31:910][795]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.08-21.26.31:911][795]LogFbx: =================================================
+[2018.11.08-21.26.31:911][795]LogFbx: Dumping Node START [pCube3] 
+[2018.11.08-21.26.31:911][795]LogFbx: 	Total Deformer Count 1692675320.
+[2018.11.08-21.26.31:911][795]LogFbx: 	Attribute () Type (4).
+[2018.11.08-21.26.31:911][795]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.11.08-21.26.31:911][795]LogFbx: Dumping Node END [pCube3]
+[2018.11.08-21.26.31:911][795]LogFbx: =================================================
+[2018.11.08-21.26.31:911][795]LogFbx: Dumping Node START [pCube4] 
+[2018.11.08-21.26.31:911][795]LogFbx: 	Total Deformer Count 1692675320.
+[2018.11.08-21.26.31:911][795]LogFbx: 	Attribute () Type (4).
+[2018.11.08-21.26.31:911][795]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.11.08-21.26.31:911][795]LogFbx: Dumping Node END [pCube4]
+[2018.11.08-21.26.31:911][795]LogFbx: =================================================
+[2018.11.08-21.26.31:911][795]LogFbx: Dumping Node START [pCube3] 
+[2018.11.08-21.26.31:911][795]LogFbx: 	Total Deformer Count 1692674872.
+[2018.11.08-21.26.31:911][795]LogFbx: 	Attribute () Type (4).
+[2018.11.08-21.26.31:911][795]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.11.08-21.26.31:911][795]LogFbx: Dumping Node END [pCube3]
+[2018.11.08-21.26.31:911][795]LogFbx: =================================================
+[2018.11.08-21.26.31:911][795]LogFbx: Dumping Node START [pCube4] 
+[2018.11.08-21.26.31:911][795]LogFbx: 	Total Deformer Count 1692674872.
+[2018.11.08-21.26.31:911][795]LogFbx: 	Attribute () Type (4).
+[2018.11.08-21.26.31:911][795]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.11.08-21.26.31:911][795]LogFbx: Dumping Node END [pCube4]
+[2018.11.08-21.26.31:923][795]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.11.08-21.26.31:948][795]LogLinker: Can't find file '/Game/SIGN/Sign'
+[2018.11.08-21.26.32:125][795]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.11.08-21.26.32:150][795]LogFbx: Triangulating skeletal mesh pCube3
+[2018.11.08-21.26.32:168][795]LogSkeletalMesh: Section 0: 18 vertices, 1 active bones
+[2018.11.08-21.26.32:168][795]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2018.11.08-21.26.32:169][795]LogSkeletalMesh: Building Skeletal Mesh Sign_pCube3...
+[2018.11.08-21.26.32:181][795]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/SIGN/Sign.Sign_pCube3
+[2018.11.08-21.26.32:181][795]LogLinker: Can't find file '/Game/SIGN/Sign_pCube3_Skeleton'
+[2018.11.08-21.26.32:181][795]LogLinker: Can't find file '/Game/SIGN/Sign_pCube3_Skeleton'
+[2018.11.08-21.26.32:189][795]LogLinker: Can't find file '/Game/SIGN/Sign_pCube3_PhysicsAsset'
+[2018.11.08-21.26.32:189][795]LogLinker: Can't find file '/Game/SIGN/Sign_pCube3_PhysicsAsset'
+[2018.11.08-21.26.32:194][795]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.11.08-21.26.32:197][795]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0'
+[2018.11.08-21.26.32:340][795]LogFbx: Triangulating skeletal mesh pCube4
+[2018.11.08-21.26.32:341][795]LogSkeletalMesh: Section 0: 18 vertices, 1 active bones
+[2018.11.08-21.26.32:341][795]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2018.11.08-21.26.32:341][795]LogSkeletalMesh: Building Skeletal Mesh Sign_pCube4...
+[2018.11.08-21.26.32:341][795]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SIGN/Sign.Sign_pCube4
+[2018.11.08-21.26.32:342][795]LogLinker: Can't find file '/Game/SIGN/Sign_pCube4_Skeleton'
+[2018.11.08-21.26.32:342][795]LogLinker: Can't find file '/Game/SIGN/Sign_pCube4_Skeleton'
+[2018.11.08-21.26.32:343][795]LogLinker: Can't find file '/Game/SIGN/Sign_pCube4_PhysicsAsset'
+[2018.11.08-21.26.32:343][795]LogLinker: Can't find file '/Game/SIGN/Sign_pCube4_PhysicsAsset'
+[2018.11.08-21.26.32:348][795]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0'
+[2018.11.08-21.26.32:351][795]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_3.SkeletalMeshComponent0'
+[2018.11.08-21.26.32:443][795]LogSkeletalMesh: Building Skeletal Mesh Sign_pCube4...
+[2018.11.08-21.26.32:443][795]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SIGN/Sign.Sign_pCube4
+[2018.11.08-21.26.36:364][796]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.11.08-21.26.36:364][796]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.11.08-21.26.36:364][796]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.11.08-21.26.36:364][796]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.11.08-21.26.36:370][796]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/Brick/AmbientOcclusionMap.png)
+[2018.11.08-21.26.36:945][797]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/Brick/BrickAlpha.jpg)
+[2018.11.08-21.26.41:746][798]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.08-21.26.41:746][798]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.08-21.26.41:748][798]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/Brick/DisplacementMap.png)
+[2018.11.08-21.26.41:984][799]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/Brick/NormalMap.png)
+[2018.11.08-21.26.43:648][800]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/Brick/SpecularMap.png)
+[2018.11.08-21.26.44:520][801]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/WOOD/AmbientOcclusionMap.png)
+[2018.11.08-21.26.53:413][802]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/WOOD/DisplacementMap.png)
+[2018.11.08-21.26.57:854][803]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/WOOD/NormalMap.png)
+[2018.11.08-21.27.24:998][804]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/WOOD/SpecularMap.png)
+[2018.11.08-21.27.32:872][805]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main Textures/WOOD/WOODFLOOR.jpg)
+[2018.11.08-21.27.50:797][806]LogEditorFactories: Performing atomic reimport of [D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/SIGN/SIGN.jpg]
+[2018.11.08-21.27.50:798][806]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/SIGN/SIGN.jpg)
+[2018.11.08-21.27.51:008][806]LogEditorFactories: -- imported successfully
+[2018.11.08-21.27.51:095][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightBig" FILE="../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightBig.uasset" SILENT=true
+[2018.11.08-21.27.51:112][807]LogSavePackage: Save=14.45ms
+[2018.11.08-21.27.51:112][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/LightBigFB34E83840E469E5C8A810A83BF4B5DA.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightBig.uasset'
+[2018.11.08-21.27.51:114][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightBig.uasset
+[2018.11.08-21.27.51:139][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightSmall" FILE="../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightSmall.uasset" SILENT=true
+[2018.11.08-21.27.51:156][807]LogSavePackage: Save=15.49ms
+[2018.11.08-21.27.51:156][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/LightSmall31CE0C89474F4230207A6CA429375C32.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightSmall.uasset'
+[2018.11.08-21.27.51:158][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/LightSmall.uasset
+[2018.11.08-21.27.51:183][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BENCH1/Bench" FILE="../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/Bench.uasset" SILENT=true
+[2018.11.08-21.27.51:203][807]LogSavePackage: Save=18.06ms
+[2018.11.08-21.27.51:203][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Bench1A6B23EA447A4CEE10C11FA322F7181D.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/Bench.uasset'
+[2018.11.08-21.27.51:205][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/Bench.uasset
+[2018.11.08-21.27.51:341][807]LogSavePackage: Save=118.18ms
+[2018.11.08-21.27.51:341][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/lambert1_Base_Color083B22CF48B8199EE41CC7AAF07F368A.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/lambert1_Base_Color.uasset'
+[2018.11.08-21.27.51:343][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/lambert1_Base_Color.uasset
+[2018.11.08-21.27.51:374][807]LogSavePackage: Save=20.10ms
+[2018.11.08-21.27.51:374][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/lambert1_Metallic6DC98C3B4DB04587D5845897DD2F0924.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/lambert1_Metallic.uasset'
+[2018.11.08-21.27.51:376][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/lambert1_Metallic.uasset
+[2018.11.08-21.27.51:425][807]LogSavePackage: Save=30.40ms
+[2018.11.08-21.27.51:426][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/lambert1_Roughness7A220F204B429E4B60F4D7B852E00903.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/lambert1_Roughness.uasset'
+[2018.11.08-21.27.51:427][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/BENCH1/lambert1_Roughness.uasset
+[2018.11.08-21.27.51:497][807]LogSavePackage: Save=54.73ms
+[2018.11.08-21.27.51:497][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/FLAG45FB20BE4E3128821B9F098BD50E9979.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/FLAG.uasset'
+[2018.11.08-21.27.51:499][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/FLAG.uasset
+[2018.11.08-21.27.51:848][807]LogSavePackage: Save=328.70ms
+[2018.11.08-21.27.51:848][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Wall119A885A542A79DA64933898291A5D228.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Wall1.uasset'
+[2018.11.08-21.27.51:850][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Wall1.uasset
+[2018.11.08-21.27.52:024][807]LogSavePackage: Save=151.94ms
+[2018.11.08-21.27.52:024][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/WhiteWall24E5D9544D9F5157AD7770A08D0AAA94.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WhiteWall.uasset'
+[2018.11.08-21.27.52:026][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WhiteWall.uasset
+[2018.11.08-21.27.52:085][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SIGN/Sign" FILE="../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/SIGN/Sign.uasset" SILENT=true
+[2018.11.08-21.27.52:161][807]LogSavePackage: Save=73.37ms
+[2018.11.08-21.27.52:161][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/SignCB07F10846A20A7C614C478F3EAD2E90.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/SIGN/Sign.uasset'
+[2018.11.08-21.27.52:162][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/SIGN/Sign.uasset
+[2018.11.08-21.27.52:288][807]LogSavePackage: Save=107.24ms
+[2018.11.08-21.27.52:288][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/AmbientOcclusionMapF7BDC3194A96312E5C74AC8EA85D0439.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/AmbientOcclusionMap.uasset'
+[2018.11.08-21.27.52:290][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/AmbientOcclusionMap.uasset
+[2018.11.08-21.27.52:494][807]LogSavePackage: Save=190.31ms
+[2018.11.08-21.27.52:494][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/BrickAlpha57B01B5F4A4E72D84667FAAA9708C896.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/BrickAlpha.uasset'
+[2018.11.08-21.27.52:497][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/BrickAlpha.uasset
+[2018.11.08-21.27.52:591][807]LogSavePackage: Save=74.94ms
+[2018.11.08-21.27.52:591][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/DisplacementMapB861DD2D416EF5B70856C89AAADB02A4.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/DisplacementMap.uasset'
+[2018.11.08-21.27.52:593][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/DisplacementMap.uasset
+[2018.11.08-21.27.52:833][807]LogSavePackage: Save=226.78ms
+[2018.11.08-21.27.52:833][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/NormalMap59FB15914FB650BD05F66EAFA677B155.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/NormalMap.uasset'
+[2018.11.08-21.27.52:835][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/NormalMap.uasset
+[2018.11.08-21.27.52:971][807]LogSavePackage: Save=122.07ms
+[2018.11.08-21.27.52:971][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/SpecularMap9157EC8D4C1D9B187F90879FD236F9EF.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/SpecularMap.uasset'
+[2018.11.08-21.27.52:973][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/Brick/SpecularMap.uasset
+[2018.11.08-21.27.54:406][807]LogSavePackage: Save=1412.55ms
+[2018.11.08-21.27.54:406][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/AmbientOcclusionMap0253877B450E0EA1DF22E482AD712611.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/AmbientOcclusionMap.uasset'
+[2018.11.08-21.27.54:408][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/AmbientOcclusionMap.uasset
+[2018.11.08-21.27.55:321][807]LogSavePackage: Save=899.21ms
+[2018.11.08-21.27.55:321][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/DisplacementMapD70434004B252AC00913AF9FE24915BC.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/DisplacementMap.uasset'
+[2018.11.08-21.27.55:323][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/DisplacementMap.uasset
+[2018.11.08-21.27.59:121][807]LogSavePackage: Save=3784.41ms
+[2018.11.08-21.27.59:122][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/NormalMap7FD8406E45A30D51D88D2C9951D78F44.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/NormalMap.uasset'
+[2018.11.08-21.27.59:124][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/NormalMap.uasset
+[2018.11.08-21.28.00:482][807]LogSavePackage: Save=1338.35ms
+[2018.11.08-21.28.00:482][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/SpecularMap8385C6F0415A59D757E4D799C9C7D803.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/SpecularMap.uasset'
+[2018.11.08-21.28.00:484][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/SpecularMap.uasset
+[2018.11.08-21.28.02:860][807]LogSavePackage: Save=2362.08ms
+[2018.11.08-21.28.02:860][807]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/WOODFLOOR3B385F234111D39EC89C46804BE083A9.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/WOODFLOOR.uasset'
+[2018.11.08-21.28.02:862][807]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/Main_Textures/WOOD/WOODFLOOR.uasset
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/LightBig.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/LightSmall.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/BENCH1/Bench.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/BENCH1/lambert1_Base_Color.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/BENCH1/lambert1_Metallic.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/BENCH1/lambert1_Roughness.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/FLAG.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/Wall1.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/WhiteWall.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/SIGN/Sign.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/Brick/AmbientOcclusionMap.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/Brick/BrickAlpha.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/Brick/DisplacementMap.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/Brick/NormalMap.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/Brick/SpecularMap.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/WOOD/AmbientOcclusionMap.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/WOOD/DisplacementMap.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/WOOD/NormalMap.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/WOOD/SpecularMap.
+[2018.11.08-21.28.05:874][143]AssetReimport: Importing new asset /Game/Main_Textures/WOOD/WOODFLOOR.
+[2018.11.08-21.28.05:874][143]AssetReimport: Reimported asset SIGN from D:/Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Content/SIGN/SIGN.jpg.
+[2018.11.08-21.28.39:665][155]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-21.28.39:669][155]LogSlate: Window 'Message Log' being destroyed
+[2018.11.08-21.28.41:927][425]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.08-21.28.41:959][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.08-21.28.41:959][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.08-21.28.41:959][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past' with GeneratedClass '/Game/Maps/WPU_Past.WPU_Past_C' with ClassGeneratedBy '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past'
+[2018.11.08-21.28.41:959][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.08-21.28.41:960][425]PIE: New page: PIE session: FirstPersonExampleMap (Nov 8, 2018, 11:28:41 AM)
+[2018.11.08-21.28.41:960][425]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.11.08-21.28.41:994][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034327s)
+[2018.11.08-21.28.41:995][425]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.08-21.28.41:995][425]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.11.08-21.28.41:995][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035370s)
+[2018.11.08-21.28.42:028][425]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.08-21.28.42:051][425]LogInit: FAudioDevice initialized.
+[2018.11.08-21.28.42:092][425]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.08-21.28.42:094][425]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.11.08-16.28.42
+[2018.11.08-21.28.42:094][425]LogWorld: Bringing up level for play took: 0.000681
+[2018.11.08-21.28.42:120][425]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.11.08-21.28.42:149][425]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_WPU_Modern 1 1 0
+[2018.11.08-21.28.42:156][425]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap 1.174
+[2018.11.08-21.28.42:156][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.08-21.28.42:157][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.08-21.28.42:157][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past' with GeneratedClass '/Game/Maps/WPU_Past.WPU_Past_C' with ClassGeneratedBy '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past'
+[2018.11.08-21.29.01:095][673]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_WPU_Past 1 1 0
+[2018.11.08-21.29.01:141][674]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_WPU_Modern 0 0 0
+[2018.11.08-21.29.04:674][ 89]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_WPU_Modern 1 1 0
+[2018.11.08-21.29.04:718][ 90]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_WPU_Past 0 0 0
+[2018.11.08-21.29.59:679][667]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-30.76 Y=-103.23 Z=0.00 Location: X=111.74 Y=276.83 Z=230.13 Normal: X=0.60 Y=0.00 Z=0.80 PenetrationDepth:0.054 Actor:None Component:ModelComponent_1258 BoneName:None (0 other events since notify)
+[2018.11.08-21.30.04:718][270]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=68.15 Y=-435.42 Z=0.00 Location: X=208.55 Y=213.51 Z=230.28 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:0.031 Actor:None Component:ModelComponent_1258 BoneName:None (3 other events since notify)
+[2018.11.08-21.30.09:534][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.08-21.30.09:534][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.08-21.30.09:534][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past' with GeneratedClass '/Game/Maps/WPU_Past.WPU_Past_C' with ClassGeneratedBy '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past'
+[2018.11.08-21.30.09:584][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.08-21.30.09:584][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.08-21.30.09:584][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past' with GeneratedClass '/Game/Maps/WPU_Past.WPU_Past_C' with ClassGeneratedBy '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past'
+[2018.11.08-21.30.09:604][845]LogActorComponent: ReregisterComponent: (/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.Starter_Background_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2018.11.08-21.30.20:368][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.08-21.31.44:257][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.08-21.36.58:923][243]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FirstPersonExampleMap' took 0.016
+[2018.11.08-21.36.58:925][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert1] ([1] browsable assets)...
+[2018.11.08-21.36.58:949][243]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert1.lambert1]
+[2018.11.08-21.36.58:950][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert1]
+[2018.11.08-21.36.58:972][243]LogSavePackage: Save=19.66ms
+[2018.11.08-21.36.58:972][243]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/lambert1_Auto121324A1F4BFFAEAC648BBDAC10F6D90D.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/lambert1_Auto1.uasset'
+[2018.11.08-21.36.58:972][243]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/lambert1_Auto1.uasset
+[2018.11.08-21.36.58:973][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert2] ([1] browsable assets)...
+[2018.11.08-21.36.58:989][243]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert2.lambert2]
+[2018.11.08-21.36.58:989][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert2]
+[2018.11.08-21.36.59:017][243]LogSavePackage: Save=25.57ms
+[2018.11.08-21.36.59:017][243]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/lambert2_Auto1CF2E50AF42FB697F680BA6860C3BB2A1.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/lambert2_Auto1.uasset'
+[2018.11.08-21.36.59:017][243]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/lambert2_Auto1.uasset
+[2018.11.08-21.36.59:018][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BENCH1/StingrayPBS1] ([1] browsable assets)...
+[2018.11.08-21.36.59:068][243]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BENCH1/StingrayPBS1.StingrayPBS1]
+[2018.11.08-21.36.59:068][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/BENCH1/StingrayPBS1]
+[2018.11.08-21.36.59:089][243]LogSavePackage: Save=18.97ms
+[2018.11.08-21.36.59:089][243]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/StingrayPBS1_Auto1C4E021C74892191977C9E4A2FE141707.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/BENCH1/StingrayPBS1_Auto1.uasset'
+[2018.11.08-21.36.59:090][243]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/BENCH1/StingrayPBS1_Auto1.uasset
+[2018.11.08-21.36.59:090][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SIGN/lambert1] ([1] browsable assets)...
+[2018.11.08-21.36.59:110][243]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SIGN/lambert1.lambert1]
+[2018.11.08-21.36.59:110][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/SIGN/lambert1]
+[2018.11.08-21.36.59:128][243]LogSavePackage: Save=16.80ms
+[2018.11.08-21.36.59:129][243]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/lambert1_Auto1687469884B01B4B0E89161938CC39DB5.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/SIGN/lambert1_Auto1.uasset'
+[2018.11.08-21.36.59:130][243]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/SIGN/lambert1_Auto1.uasset
+[2018.11.08-21.36.59:131][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SIGN/Sign_pCube3_Skeleton] ([1] browsable assets)...
+[2018.11.08-21.36.59:131][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/SIGN/Sign_pCube3_Skeleton]
+[2018.11.08-21.36.59:140][243]LogSavePackage: Save=6.49ms
+[2018.11.08-21.36.59:140][243]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Sign_pCube3_Skeleton_Auto14E6DD03243D89B4FC53B2FA5907E00E8.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/SIGN/Sign_pCube3_Skeleton_Auto1.uasset'
+[2018.11.08-21.36.59:140][243]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/SIGN/Sign_pCube3_Skeleton_Auto1.uasset
+[2018.11.08-21.36.59:141][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SIGN/Sign_pCube4_Skeleton] ([1] browsable assets)...
+[2018.11.08-21.36.59:141][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/SIGN/Sign_pCube4_Skeleton]
+[2018.11.08-21.36.59:149][243]LogSavePackage: Save=5.85ms
+[2018.11.08-21.36.59:149][243]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Sign_pCube4_Skeleton_Auto116A6C2E9463AC087CB497781275E1965.tmp' to '../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/SIGN/Sign_pCube4_Skeleton_Auto1.uasset'
+[2018.11.08-21.36.59:149][243]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/New folder/PeaceProject-master/PeaceProject-master/HistoricalWPU/Saved/Autosaves/Game/SIGN/Sign_pCube4_Skeleton_Auto1.uasset
+[2018.11.08-21.36.59:149][243]LogFileHelpers: Auto-saving content packages took 0.225
