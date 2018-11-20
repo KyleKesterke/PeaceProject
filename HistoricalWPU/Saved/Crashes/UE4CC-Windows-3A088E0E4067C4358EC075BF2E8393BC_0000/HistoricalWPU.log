@@ -1,0 +1,1221 @@
+﻿Log file open, 11/20/18 13:53:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: HistoricalWPU
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1778770061) SRandInit(-1778770061).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.174750
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.642s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am WK-B7XRPD2 (10.100.98.66:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.20-18.53.13:376][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.20-18.53.13:377][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.20-18.53.13:406][  0]LogInit: Computer: WK-B7XRPD2
+[2018.11.20-18.53.13:406][  0]LogInit: User: kakesterke
+[2018.11.20-18.53.13:406][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.20-18.53.13:406][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2018.11.20-18.53.13:406][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.20-18.53.13:406][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.20-18.53.13:406][  0]LogMemory: Process Physical Memory: 277.75 MB used, 277.75 MB peak
+[2018.11.20-18.53.13:406][  0]LogMemory: Process Virtual Memory: 270.56 MB used, 270.56 MB peak
+[2018.11.20-18.53.13:406][  0]LogMemory: Physical Memory: 5309.54 MB used,  10977.37 MB free, 16286.90 MB total
+[2018.11.20-18.53.13:406][  0]LogMemory: Virtual Memory: 4831.12 MB used,  10977.37 MB free, 134217728.00 MB total
+[2018.11.20-18.53.13:423][  0]LogInit: Using OS detected language (en-US).
+[2018.11.20-18.53.13:423][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.20-18.53.13:426][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.20-18.53.13:853][  0]LogStreaming: Display: Took  0.430s to EndInitTextLocalization.
+[2018.11.20-18.53.13:853][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.20-18.53.13:888][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.20-18.53.13:888][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.20-18.53.14:055][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.20-18.53.14:107][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.11.20-18.53.14:107][  0]LogD3D11RHI:       8079/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.20-18.53.14:116][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.20-18.53.14:116][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.20-18.53.14:118][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.20-18.53.14:118][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.20-18.53.14:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.20-18.53.14:128][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.20-18.53.14:128][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.20-18.53.14:128][  0]LogWindows: EnumDisplayDevices:
+[2018.11.20-18.53.14:128][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.11.20-18.53.14:129][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.11.20-18.53.14:129][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.20-18.53.14:129][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.20-18.53.14:129][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.20-18.53.14:129][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.20-18.53.14:130][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.20-18.53.14:130][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.20-18.53.14:130][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.11.20-18.53.14:130][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.20-18.53.14:130][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.20-18.53.14:130][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.11.20-18.53.14:169][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.20-18.53.14:169][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.20-18.53.14:169][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.20-18.53.14:187][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.20-18.53.14:189][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Intermediate/Shaders/WorkingDirectory/17936/).
+[2018.11.20-18.53.14:189][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kakesterke/AppData/Local/Temp/UnrealShaderWorkingDir/49E0392944409B1ED3E076AB4659DFE4/'.
+[2018.11.20-18.53.14:391][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.20-18.53.14:404][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.20-18.53.14:417][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.20-18.53.14:430][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.20-18.53.14:442][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.20-18.53.14:454][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.20-18.53.14:467][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.20-18.53.14:480][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.20-18.53.14:485][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.20-18.53.14:497][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.20-18.53.14:508][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.20-18.53.14:520][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.20-18.53.14:532][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.20-18.53.14:543][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.20-18.53.14:555][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.20-18.53.14:578][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.20-18.53.14:578][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.20-18.53.14:591][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.20-18.53.14:592][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.20-18.53.14:628][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.20-18.53.14:640][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.20-18.53.14:653][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.20-18.53.14:664][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.20-18.53.14:676][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.20-18.53.14:688][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.20-18.53.14:688][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.20-18.53.14:765][  0]LogXGEController: Cleaning working directory: C:/Users/kakesterke/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.20-18.53.14:765][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.20-18.53.14:765][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.20-18.53.14:765][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.20-18.53.15:399][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.20-18.53.15:471][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/kakesterke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.20-18.53.15:471][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kakesterke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.20-18.53.15:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.20-18.53.15:471][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.20-18.53.15:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.20-18.53.15:471][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.20-18.53.15:487][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.20-18.53.15:500][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kakesterke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.20-18.53.15:500][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.20-18.53.15:500][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.20-18.53.15:511][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.20-18.53.15:512][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.20-18.53.15:512][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.20-18.53.15:512][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.20-18.53.15:614][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.11.20-18.53.15:900][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.20-18.53.16:035][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.20-18.53.16:037][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.20-18.53.16:037][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.20-18.53.16:037][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.20-18.53.16:037][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.20-18.53.16:037][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.20-18.53.16:065][  0]LogNetVersion: HistoricalWPU , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1850797864)
+[2018.11.20-18.53.16:544][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.064975 seconds
+[2018.11.20-18.53.16:550][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.20-18.53.16:550][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.11.20-18.53.16:550][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.20-18.53.18:156][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.20-18.53.18:180][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.20-18.53.18:492][  0]SourceControl: Source control is disabled
+[2018.11.20-18.53.18:492][  0]SourceControl: Source control is disabled
+[2018.11.20-18.53.18:504][  0]SourceControl: Source control is disabled
+[2018.11.20-18.53.18:514][  0]SourceControl: Source control is disabled
+[2018.11.20-18.53.18:886][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.20-18.53.19:032][  0]LogOcInput: OculusInput pre-init called
+[2018.11.20-18.53.19:123][  0]LogEngine: Initializing Engine...
+[2018.11.20-18.53.19:124][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.20-18.53.19:125][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.20-18.53.19:126][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.20-18.53.19:353][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.20-18.53.19:436][  0]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-18.53.19:490][  0]LogInit: FAudioDevice initialized.
+[2018.11.20-18.53.19:574][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/kakesterke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.20-18.53.19:588][  0]LogInit: Texture streaming: Enabled
+[2018.11.20-18.53.19:613][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.20-18.53.19:626][  0]LogInit: Transaction tracking system initialized
+[2018.11.20-18.53.19:643][  0]BlueprintLog: New page: Editor Load
+[2018.11.20-18.53.19:696][  0]LocalizationService: Localization service is disabled
+[2018.11.20-18.53.19:770][  0]LogConsoleResponse: Display: 
+[2018.11.20-18.53.19:915][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.20-18.53.19:915][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.20-18.53.19:915][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.20-18.53.19:915][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.20-18.53.19:915][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.20-18.53.20:178][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/' took 0.01s
+[2018.11.20-18.53.20:178][  0]SourceControl: Source control is disabled
+[2018.11.20-18.53.20:178][  0]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-18.53.20:178][  0]LightingResults: New page: Lighting Build
+[2018.11.20-18.53.20:180][  0]MapCheck: New page: Map Check
+[2018.11.20-18.53.20:180][  0]LightingResults: New page: Lighting Build
+[2018.11.20-18.53.20:199][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b65306c50, Size=4, Default__MainMenu_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.20-18.53.20:202][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b65306c50, Size=4
+[2018.11.20-18.53.20:202][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b65306c50, Size=4, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_0:ExecuteUbergraph_MainMenu
+[2018.11.20-18.53.20:203][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b65306b58, Size=4, Default__MainMenu_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.20-18.53.20:205][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b09433d18, Size=24, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.20-18.53.20:207][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b09433d18, Size=24
+[2018.11.20-18.53.20:207][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b09433d18, Size=24, MainMenu_C_0 Function /Engine/Transient.REINST_MainMenu_C_2:ExecuteUbergraph_MainMenu
+[2018.11.20-18.53.20:208][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b09433a00, Size=24, Default__MainMenu_C Function /Game/Maps/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.11.20-18.53.20:215][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.11.20-18.53.20:216][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-18.53.20:228][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b65306c50, Size=4
+[2018.11.20-18.53.20:229][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b09433d18, Size=24
+[2018.11.20-18.53.20:229][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-18.53.20:262][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 32.465ms to complete.
+[2018.11.20-18.53.20:262][  0]LogFileHelpers: Loading map 'MainMenu' took 0.084
+[2018.11.20-18.53.20:375][  0]LogCollectionManager: Loaded 0 collections in 0.000950 seconds
+[2018.11.20-18.53.20:419][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kakesterke/Desktop/Current Work/HistoricalWPU/Saved/Collections/' took 0.01s
+[2018.11.20-18.53.20:419][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Developers/kakesterke/Collections/' took 0.01s
+[2018.11.20-18.53.20:419][  0]LogFileCache: Scanning file cache for directory 'D:/Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Collections/' took 0.01s
+[2018.11.20-18.53.20:419][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.20-18.53.20:428][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2452 classes and 558 folders.
+[2018.11.20-18.53.20:433][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.20-18.53.20:467][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.20-18.53.20:470][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.20-18.53.20:487][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.20-18.53.20:489][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.20-18.53.20:497][  0]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.20-18.53.20:601][  0]LogRenderer: Reallocating scene render targets to support 1272x632 Format 10 NumSamples 1 (Frame:1).
+[2018.11.20-18.53.20:756][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.20-18.53.20:772][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.11.20-18.53.20:802][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.20-18.53.20:802][  0]LogLoad: (Engine Initialization) Total time: 9.72 seconds
+[2018.11.20-18.53.20:802][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.20-18.53.20:811][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.20-18.53.20:843][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.20-18.53.20:895][  1]LogAssetRegistry: Asset discovery search completed in 5.3037 seconds
+[2018.11.20-18.53.20:897][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.20-18.53.20:897][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2018.11.20-18.53.21:840][108]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.20-18.53.23:513][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.53.23:671][321]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2018.11.20-18.53.23:904][321]LogMaterial: Missing cached shader map for material M_Sparkle, compiling. 
+[2018.11.20-18.53.24:236][321]LogMaterial: Missing cached shader map for material M_Sparkle, compiling. 
+[2018.11.20-18.53.24:244][321]LogMaterial: Missing cached shader map for material M_Sparkle, compiling. 
+[2018.11.20-18.53.24:264][321]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-18.53.24:264][321]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-18.53.24:264][321]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-18.53.24:276][321]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.20-18.53.24:280][321]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.11.20-18.53.24:298][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b35b26760, Size=4, Default__0_NoteSign_C Function /Game/Objects/NoteObjects/0_NoteSign.0_NoteSign_C:ExecuteUbergraph_0_NoteSign
+[2018.11.20-18.53.24:300][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b35b26760, Size=4
+[2018.11.20-18.53.24:300][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b35b26760, Size=4, Default__0_NoteSign_C Function /Engine/Transient.REINST_0_NoteSign_C_6:ExecuteUbergraph_0_NoteSign
+[2018.11.20-18.53.24:301][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b35b26608, Size=4, Default__0_NoteSign_C Function /Game/Objects/NoteObjects/0_NoteSign.0_NoteSign_C:ExecuteUbergraph_0_NoteSign
+[2018.11.20-18.53.24:308][321]LogSkeletalMesh: Skeletal Mesh found in DDC [0.209180ms] /Game/Objects/Meshes/Sign.Sign_pCube3
+[2018.11.20-18.53.24:308][321]LogSkeletalMesh: Skeletal Mesh found in DDC [0.132909ms] /Game/Objects/Meshes/Sign.Sign_pCube4
+[2018.11.20-18.53.24:644][321]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.11.20-18.53.24:943][321]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-18.53.24:943][321]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-18.53.24:943][321]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-18.53.24:943][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b3aeba558, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.20-18.53.24:944][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b3aeba550, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.20-18.53.25:316][321]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-18.53.25:316][321]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-18.53.25:395][321]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-18.53.25:395][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b6e3503b0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.20-18.53.25:411][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b6e3503b0, Size=72
+[2018.11.20-18.53.25:411][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b6b4e7a10, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.20-18.53.25:419][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b74b2ee80, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.11.20-18.53.25:477][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b74add000, Size=664, Default__FirstPersonCharacter_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.11.20-18.53.25:480][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b74b0f2e0, Size=16, Default__NoteMenu_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/NoteMenu.NoteMenu_C:ExecuteUbergraph_NoteMenu
+[2018.11.20-18.53.25:516][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b74b0ec80, Size=16, Default__Credits_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/Credits.Credits_C:ExecuteUbergraph_Credits
+[2018.11.20-18.53.25:534][321]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-18.53.25:534][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b74b0ec80, Size=16
+[2018.11.20-18.53.25:534][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b74b0ec80, Size=16, Default__Credits_C Function /Engine/Transient.REINST_Credits_C_1:ExecuteUbergraph_Credits
+[2018.11.20-18.53.25:535][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b74add000, Size=664
+[2018.11.20-18.53.25:535][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b74332e00, Size=664, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_23:ExecuteUbergraph_FirstPersonCharacter
+[2018.11.20-18.53.25:536][321]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b74b0f2e0, Size=16
+[2018.11.20-18.53.25:536][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b74b0f2e0, Size=16, Default__NoteMenu_C Function /Engine/Transient.REINST_NoteMenu_C_2:ExecuteUbergraph_NoteMenu
+[2018.11.20-18.53.25:546][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b742c3060, Size=16, Default__Credits_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/Credits.Credits_C:ExecuteUbergraph_Credits
+[2018.11.20-18.53.25:549][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b7424b400, Size=664, Default__FirstPersonCharacter_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.11.20-18.53.25:551][321]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b742c2cc0, Size=16, Default__NoteMenu_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/NoteMenu.NoteMenu_C:ExecuteUbergraph_NoteMenu
+[2018.11.20-18.53.25:664][321]LogSkeletalMesh: Skeletal Mesh found in DDC [3.650455ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.11.20-18.53.25:692][321]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.53.25:692][321]LogSkeletalMesh: Skeletal Mesh found in DDC [6.369040ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.11.20-18.53.25:964][321]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-18.53.25:998][321]LogLinker: Warning: Can't find file '/Game/SIGN/Sign'
+[2018.11.20-18.53.25:998][321]LogLinker: Warning: Can't find file for asset '/Game/SIGN/Sign' while loading ../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/SIGN/lambert1.uasset.
+[2018.11.20-18.53.25:998][321]LoadErrors: Error: /Game/SIGN/lambert1 : Can't find file for asset. /Game/SIGN/Sign
+[2018.11.20-18.53.25:999][321]LogLinker: Warning: Can't find file '/Game/SIGN/Sign'
+[2018.11.20-18.53.25:999][321]LogLinker: Warning: Can't find file for asset '/Game/SIGN/Sign' while loading ../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/SIGN/lambert1.uasset.
+[2018.11.20-18.53.26:000][321]LogLinker: Warning: Can't find file '/Game/SIGN/Sign'
+[2018.11.20-18.53.26:000][321]LoadErrors: Failed to load /Game/SIGN/Sign.SIGN Referenced by MaterialExpressionTextureSample_0
+[2018.11.20-18.53.26:001][321]LogLinker: Warning: Can't find file for asset '/Game/SIGN/Sign' while loading NULL.
+[2018.11.20-18.53.26:001][321]LogSkeletalMesh: Skeletal Mesh found in DDC [0.195965ms] /Game/Objects/Meshes/Sign_pCube3.Sign_pCube3
+[2018.11.20-18.53.26:003][321]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.11.20-18.53.26:003][321]LogMaterial: Warning: D:\Users\kakesterke\Desktop\Current Work\HistoricalWPU\Content\SIGN\lambert1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.20-18.53.26:003][321]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.20-18.53.26:015][321]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.20-18.53.26:022][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.20-18.53.26:024][321]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.11.20-18.53.26:263][321]LogFileCache: Retrieving MD5 hashes for directory 'D:/Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/' took 5.44s
+[2018.11.20-18.53.26:339][321]MaterialEditorStats: Base pass shader without light map: 130 instructions
+[2018.11.20-18.53.26:339][321]MaterialEditorStats: Vertex shader: 113 instructions
+[2018.11.20-18.53.26:339][321]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.20-18.53.26:340][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.11.20-18.53.26:359][321]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.20-18.53.26:403][321]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.20-18.53.26:452][321]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.11.20-18.53.26:477][321]LogRenderer: Reallocating scene render targets to support 1272x888 Format 10 NumSamples 1 (Frame:1).
+[2018.11.20-18.53.34:112][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b220c69e8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.11.20-18.53.34:114][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b220c69e8, Size=52
+[2018.11.20-18.53.34:114][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b220c69e8, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_29:ExecuteUbergraph_FirstPersonHUD
+[2018.11.20-18.53.34:116][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b220c4f00, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.11.20-18.53.34:154][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b8ba7a500, Size=64, Default__FirstPersonExampleMap_C Function /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.20-18.53.34:157][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b8ba7a500, Size=64
+[2018.11.20-18.53.34:157][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b8ba7afc0, Size=64, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_39:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.20-18.53.34:159][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b77eb9640, Size=64, Default__FirstPersonExampleMap_C Function /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.20-18.53.34:308][887]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.20-18.53.34:349][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b35b26760, Size=4
+[2018.11.20-18.53.34:350][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b6b4e7a10, Size=72
+[2018.11.20-18.53.34:350][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b74332e00, Size=664
+[2018.11.20-18.53.34:350][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b74b0f2e0, Size=16
+[2018.11.20-18.53.34:350][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b74b0ec80, Size=16
+[2018.11.20-18.53.34:350][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b220c69e8, Size=52
+[2018.11.20-18.53.34:350][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b8ba7afc0, Size=64
+[2018.11.20-18.53.34:353][887]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-18.53.34:353][887]LightingResults: New page: Lighting Build
+[2018.11.20-18.53.34:354][887]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.11.20-18.53.34:354][887]MapCheck: New page: Map Check
+[2018.11.20-18.53.34:354][887]LightingResults: New page: Lighting Build
+[2018.11.20-18.53.34:376][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b09433a00, Size=24
+[2018.11.20-18.53.34:382][887]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WPU_Modern) is flushing async loading
+[2018.11.20-18.53.34:460][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b91bd0f90, Size=80, Default__LevelSwitchFade_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/LevelSwitchFade.LevelSwitchFade_C:ExecuteUbergraph_LevelSwitchFade
+[2018.11.20-18.53.34:462][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b91bd0f90, Size=80
+[2018.11.20-18.53.34:462][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b91bd3920, Size=80, Default__LevelSwitchFade_C Function /Engine/Transient.REINST_LevelSwitchFade_C_9:ExecuteUbergraph_LevelSwitchFade
+[2018.11.20-18.53.34:464][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b3965d670, Size=80, Default__LevelSwitchFade_C Function /Game/FirstPerson/FirstPersonBP/Blueprints/LevelSwitchFade.LevelSwitchFade_C:ExecuteUbergraph_LevelSwitchFade
+[2018.11.20-18.53.34:520][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b100bcac0, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.53.34:522][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b100bcac0, Size=88
+[2018.11.20-18.53.34:523][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b100bcac0, Size=88, Default__WPU_Modern_C Function /Engine/Transient.REINST_WPU_Modern_C_46:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.53.34:525][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b1011f6a0, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.53.34:610][887]LogMaterial: Missing cached shader map for material GLASS_Mat, compiling. 
+[2018.11.20-18.53.34:611][887]LogMaterial: Warning: D:\Users\kakesterke\Desktop\Current Work\HistoricalWPU\Content\Materials\GLASS_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.20-18.53.34:611][887]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.11.20-18.53.34:651][887]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WPU_Past) is flushing async loading
+[2018.11.20-18.53.34:730][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b77c61418, Size=4, Default__1_OilLamp_C Function /Game/Objects/NoteObjects/1_OilLamp.1_OilLamp_C:ExecuteUbergraph_1_OilLamp
+[2018.11.20-18.53.34:732][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b77c61418, Size=4
+[2018.11.20-18.53.34:732][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b77c61418, Size=4, Default__1_OilLamp_C Function /Engine/Transient.REINST_1_OilLamp_C_48:ExecuteUbergraph_1_OilLamp
+[2018.11.20-18.53.34:734][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b77c61c28, Size=4, Default__1_OilLamp_C Function /Game/Objects/NoteObjects/1_OilLamp.1_OilLamp_C:ExecuteUbergraph_1_OilLamp
+[2018.11.20-18.53.34:740][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b77c61d08, Size=4, Default__2_Flag_C Function /Game/Objects/NoteObjects/2_Flag.2_Flag_C:ExecuteUbergraph_2_Flag
+[2018.11.20-18.53.34:742][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b77c61d08, Size=4
+[2018.11.20-18.53.34:742][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b77c61d08, Size=4, Default__2_Flag_C Function /Engine/Transient.REINST_2_Flag_C_50:ExecuteUbergraph_2_Flag
+[2018.11.20-18.53.34:744][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b77c61fb8, Size=4, Default__2_Flag_C Function /Game/Objects/NoteObjects/2_Flag.2_Flag_C:ExecuteUbergraph_2_Flag
+[2018.11.20-18.53.34:779][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b64f0d3c0, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.53.34:782][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b64f0d3c0, Size=88
+[2018.11.20-18.53.34:782][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b64f0d3c0, Size=88, Default__WPU_Past_C Function /Engine/Transient.REINST_WPU_Past_C_52:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.53.34:784][887]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b77d2e080, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.53.34:888][887]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-18.53.34:913][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b64f0d3c0, Size=88
+[2018.11.20-18.53.34:913][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b77c61d08, Size=4
+[2018.11.20-18.53.34:913][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b77c61418, Size=4
+[2018.11.20-18.53.34:913][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b100bcac0, Size=88
+[2018.11.20-18.53.34:913][887]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b91bd3920, Size=80
+[2018.11.20-18.53.34:944][887]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-18.53.34:996][887]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.71ms to complete.
+[2018.11.20-18.53.34:996][887]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.645
+[2018.11.20-18.53.36:363][968]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-18.53.36:391][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.20-18.53.36:391][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.20-18.53.36:391][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past' with GeneratedClass '/Game/Maps/WPU_Past.WPU_Past_C' with ClassGeneratedBy '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past'
+[2018.11.20-18.53.36:391][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-18.53.36:391][968]PIE: New page: PIE session: FirstPersonExampleMap (Nov 20, 2018, 8:53:36 AM)
+[2018.11.20-18.53.36:391][968]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.11.20-18.53.36:417][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025381s)
+[2018.11.20-18.53.36:418][968]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.20-18.53.36:418][968]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2018.11.20-18.53.36:418][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026557s)
+[2018.11.20-18.53.36:454][968]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-18.53.36:472][968]LogInit: FAudioDevice initialized.
+[2018.11.20-18.53.36:512][968]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.20-18.53.36:513][968]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.11.20-13.53.36
+[2018.11.20-18.53.36:514][968]LogWorld: Bringing up level for play took: 0.001277
+[2018.11.20-18.53.36:517][968]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.11.20-18.53.36:517][968]LogLevel: ActivateLevel /Game/Maps/UEDPIE_0_WPU_Modern 1 1 0
+[2018.11.20-18.53.36:517][968]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_FirstPersonExampleMap 1.057
+[2018.11.20-18.53.36:517][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.20-18.53.36:517][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.20-18.53.36:518][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past' with GeneratedClass '/Game/Maps/WPU_Past.WPU_Past_C' with ClassGeneratedBy '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past'
+[2018.11.20-18.53.42:594][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.20-18.53.42:594][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.20-18.53.42:594][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past' with GeneratedClass '/Game/Maps/WPU_Past.WPU_Past_C' with ClassGeneratedBy '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past'
+[2018.11.20-18.53.42:632][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.11.20-18.53.42:632][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.20-18.53.42:632][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past' with GeneratedClass '/Game/Maps/WPU_Past.WPU_Past_C' with ClassGeneratedBy '/Game/Maps/WPU_Past.WPU_Past:PersistentLevel.WPU_Past'
+[2018.11.20-18.53.42:667][380]LogActorComponent: ReregisterComponent: (/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Starter_Background_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2018.11.20-18.53.44:563][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.54.08:084][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.54.08:244][ 43]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-18.54.08:244][ 43]LightingResults: New page: Lighting Build
+[2018.11.20-18.54.08:245][ 43]LoadErrors: New page: Loading map: WPU_Modern.umap
+[2018.11.20-18.54.08:247][ 43]MapCheck: New page: Map Check
+[2018.11.20-18.54.08:247][ 43]LightingResults: New page: Lighting Build
+[2018.11.20-18.54.08:273][ 43]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b77d2e080, Size=88
+[2018.11.20-18.54.08:273][ 43]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b77eb9640, Size=64
+[2018.11.20-18.54.08:276][ 43]LogAIModule: Creating AISystem for world WPU_Modern
+[2018.11.20-18.54.08:306][ 43]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-18.54.08:364][ 43]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-18.54.08:416][ 43]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.111ms to complete.
+[2018.11.20-18.54.08:417][ 43]LogFileHelpers: Loading map 'WPU_Modern' took 0.175
+[2018.11.20-18.54.17:532][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.54.27:037][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.54.46:939][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.55.25:249][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.55.49:017][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.55.49:093][537]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.20-18.55.49:120][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.20-18.55.49:120][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.20-18.55.49:120][537]PIE: New page: PIE session: WPU_Modern (Nov 20, 2018, 8:55:49 AM)
+[2018.11.20-18.55.49:120][537]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_WPU_Modern
+[2018.11.20-18.55.49:142][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021466s)
+[2018.11.20-18.55.49:142][537]LogAIModule: Creating AISystem for world WPU_Modern
+[2018.11.20-18.55.49:142][537]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2018.11.20-18.55.49:142][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/WPU_Modern.WPU_Modern to /Game/Maps/UEDPIE_0_WPU_Modern.WPU_Modern (0.022225s)
+[2018.11.20-18.55.49:175][537]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.20-18.55.49:193][537]LogInit: FAudioDevice initialized.
+[2018.11.20-18.55.49:229][537]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.11.20-18.55.49:236][537]LogWorld: Bringing World /Game/Maps/UEDPIE_0_WPU_Modern.WPU_Modern up for play (max tick rate 0) at 2018.11.20-13.55.49
+[2018.11.20-18.55.49:247][537]LogWorld: Bringing up level for play took: 0.017089
+[2018.11.20-18.55.49:250][537]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_WPU_Modern -0.211
+[2018.11.20-18.55.49:250][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.20-18.55.54:459][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.20-18.55.54:494][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern' with GeneratedClass '/Game/Maps/WPU_Modern.WPU_Modern_C' with ClassGeneratedBy '/Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.WPU_Modern'
+[2018.11.20-18.55.57:538][113]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2018.11.20-18.56.03:151][479]Cmd: EDIT COPY
+[2018.11.20-18.56.05:400][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.56.05:563][631]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b9521b1c0, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.05:565][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b9521b1c0, Size=88
+[2018.11.20-18.56.05:565][631]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b9521b1c0, Size=88, Default__WPU_Past_C Function /Engine/Transient.REINST_WPU_Past_C_54:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.05:568][631]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b9521b160, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.05:615][631]LogAIModule: Creating AISystem for world WPU_Past
+[2018.11.20-18.56.05:649][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b9521b1c0, Size=88
+[2018.11.20-18.56.06:727][631]LogSlate: Window 'Save Content' being destroyed
+[2018.11.20-18.56.06:795][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/WPU_Modern" FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.20-18.56.06:842][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b1011f6a0, Size=88
+[2018.11.20-18.56.06:842][631]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b785f5120, Size=88, Default__WPU_Modern_C Function /Engine/Transient.REINST_WPU_Modern_C_58:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.56.06:845][631]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b785f7e20, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.56.07:207][631]LogSavePackage: Save=376.55ms
+[2018.11.20-18.56.07:207][631]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Saved/WPU_Modern067BC7D548E7C68667E4A99B306F7D31.tmp' to '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern.umap'
+[2018.11.20-18.56.07:210][631]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern.umap
+[2018.11.20-18.56.07:240][631]LogFileHelpers: Saving map 'WPU_Modern' took 0.506
+[2018.11.20-18.56.07:242][631]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Past.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-18.56.07:242][631]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.07:242][631]LoadErrors: New page: Loading map: WPU_Past.umap
+[2018.11.20-18.56.07:245][631]MapCheck: New page: Map Check
+[2018.11.20-18.56.07:245][631]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.07:269][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b785f7e20, Size=88
+[2018.11.20-18.56.07:269][631]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b785f5120, Size=88
+[2018.11.20-18.56.07:280][631]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-18.56.07:334][631]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-18.56.07:388][631]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.912ms to complete.
+[2018.11.20-18.56.07:390][631]LogFileHelpers: Loading map 'WPU_Past' took 0.150
+[2018.11.20-18.56.15:625][252]Cmd: EDIT PASTE
+[2018.11.20-18.56.18:397][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.56.18:545][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b35142380, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.56.18:548][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b35142380, Size=88
+[2018.11.20-18.56.18:548][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b35142380, Size=88, Default__WPU_Modern_C Function /Engine/Transient.REINST_WPU_Modern_C_60:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.56.18:550][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b2bce1a80, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.56.18:605][437]LogAIModule: Creating AISystem for world WPU_Modern
+[2018.11.20-18.56.18:659][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b35142380, Size=88
+[2018.11.20-18.56.19:798][437]LogSlate: Window 'Save Content' being destroyed
+[2018.11.20-18.56.19:861][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/WPU_Past" FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Past.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.20-18.56.19:913][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b9521b160, Size=88
+[2018.11.20-18.56.19:913][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b785f6ce0, Size=88, Default__WPU_Past_C Function /Engine/Transient.REINST_WPU_Past_C_64:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.19:916][437]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b785f48e0, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.20:186][437]LogSavePackage: Save=287.53ms
+[2018.11.20-18.56.20:186][437]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Saved/WPU_PastCAB7F7BB40157255094A9EB3CE258A7E.tmp' to '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Past.umap'
+[2018.11.20-18.56.20:189][437]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Past.umap
+[2018.11.20-18.56.20:221][437]LogFileHelpers: Saving map 'WPU_Past' took 0.415
+[2018.11.20-18.56.20:222][437]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-18.56.20:222][437]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.20:223][437]LoadErrors: New page: Loading map: WPU_Modern.umap
+[2018.11.20-18.56.20:224][437]MapCheck: New page: Map Check
+[2018.11.20-18.56.20:224][437]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.20:246][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b785f48e0, Size=88
+[2018.11.20-18.56.20:246][437]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b785f6ce0, Size=88
+[2018.11.20-18.56.20:275][437]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-18.56.20:329][437]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-18.56.20:379][437]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.954ms to complete.
+[2018.11.20-18.56.20:379][437]LogFileHelpers: Loading map 'WPU_Modern' took 0.159
+[2018.11.20-18.56.21:402][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stair_Post)
+[2018.11.20-18.56.22:585][568]Cmd: EDIT COPY
+[2018.11.20-18.56.23:386][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.56.23:539][626]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b78496740, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.23:542][626]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b78496740, Size=88
+[2018.11.20-18.56.23:542][626]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b78496740, Size=88, Default__WPU_Past_C Function /Engine/Transient.REINST_WPU_Past_C_66:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.23:544][626]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b78497be0, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.23:591][626]LogAIModule: Creating AISystem for world WPU_Past
+[2018.11.20-18.56.23:625][626]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b78496740, Size=88
+[2018.11.20-18.56.23:627][626]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Past.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-18.56.23:627][626]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.23:628][626]LoadErrors: New page: Loading map: WPU_Past.umap
+[2018.11.20-18.56.23:631][626]MapCheck: New page: Map Check
+[2018.11.20-18.56.23:631][626]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.23:654][626]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b2bce1a80, Size=88
+[2018.11.20-18.56.23:663][626]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-18.56.23:719][626]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-18.56.23:770][626]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.957ms to complete.
+[2018.11.20-18.56.23:770][626]LogFileHelpers: Loading map 'WPU_Past' took 0.144
+[2018.11.20-18.56.25:690][754]Cmd: DELETE
+[2018.11.20-18.56.25:690][754]Cmd: ACTOR DELETE
+[2018.11.20-18.56.25:697][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.20-18.56.25:712][754]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b77eb8800, Size=64, Default__FirstPersonExampleMap_C Function /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.20-18.56.25:716][754]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b77eb8800, Size=64
+[2018.11.20-18.56.25:716][754]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bbaad4800, Size=64, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_68:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.20-18.56.25:718][754]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bbaad4b80, Size=64, Default__FirstPersonExampleMap_C Function /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.20-18.56.25:747][754]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.20-18.56.25:798][754]LogEditorActor: Deleted Actor: Brush
+[2018.11.20-18.56.25:820][754]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023bbaad4800, Size=64
+[2018.11.20-18.56.25:837][754]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2018.11.20-18.56.26:533][808]Cmd: EDIT PASTE
+[2018.11.20-18.56.31:978][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.56.33:172][168]LogSlate: Window 'Save Content' being destroyed
+[2018.11.20-18.56.33:236][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/WPU_Past" FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Past.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.20-18.56.33:274][168]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b78497be0, Size=88
+[2018.11.20-18.56.33:274][168]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bb015cfa0, Size=88, Default__WPU_Past_C Function /Engine/Transient.REINST_WPU_Past_C_72:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.33:277][168]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bb015da20, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.33:538][168]LogSavePackage: Save=276.68ms
+[2018.11.20-18.56.33:538][168]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Saved/WPU_Past5977089E4E2CE8D9DD3F5899AC30393C.tmp' to '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Past.umap'
+[2018.11.20-18.56.33:541][168]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Past.umap
+[2018.11.20-18.56.33:573][168]LogFileHelpers: Saving map 'WPU_Past' took 0.393
+[2018.11.20-18.56.33:577][168]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-18.56.33:577][168]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.33:578][168]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.11.20-18.56.33:580][168]MapCheck: New page: Map Check
+[2018.11.20-18.56.33:580][168]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.33:604][168]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023bb015da20, Size=88
+[2018.11.20-18.56.33:604][168]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023bb015cfa0, Size=88
+[2018.11.20-18.56.33:611][168]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WPU_Modern) is flushing async loading
+[2018.11.20-18.56.33:625][168]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b2bce3ac0, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.56.33:628][168]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b2bce3ac0, Size=88
+[2018.11.20-18.56.33:628][168]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b2bce3ac0, Size=88, Default__WPU_Modern_C Function /Engine/Transient.REINST_WPU_Modern_C_74:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.56.33:630][168]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b2bce1960, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.56.33:676][168]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WPU_Past) is flushing async loading
+[2018.11.20-18.56.33:687][168]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b78496800, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.33:690][168]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b78496800, Size=88
+[2018.11.20-18.56.33:690][168]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b78496800, Size=88, Default__WPU_Past_C Function /Engine/Transient.REINST_WPU_Past_C_76:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.33:692][168]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b784977c0, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.56.33:752][168]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-18.56.33:775][168]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b78496800, Size=88
+[2018.11.20-18.56.33:775][168]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b2bce3ac0, Size=88
+[2018.11.20-18.56.33:811][168]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-18.56.33:864][168]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.197ms to complete.
+[2018.11.20-18.56.33:866][168]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.291
+[2018.11.20-18.56.36:739][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.20-18.56.39:309][567]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-18.56.39:309][567]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.39:310][567]LoadErrors: New page: Loading map: WPU_Modern.umap
+[2018.11.20-18.56.39:312][567]MapCheck: New page: Map Check
+[2018.11.20-18.56.39:312][567]LightingResults: New page: Lighting Build
+[2018.11.20-18.56.39:336][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b784977c0, Size=88
+[2018.11.20-18.56.39:336][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023bbaad4b80, Size=64
+[2018.11.20-18.56.39:338][567]LogAIModule: Creating AISystem for world WPU_Modern
+[2018.11.20-18.56.39:368][567]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-18.56.39:428][567]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-18.56.39:480][567]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.745ms to complete.
+[2018.11.20-18.56.39:481][567]LogFileHelpers: Loading map 'WPU_Modern' took 0.173
+[2018.11.20-18.56.41:603][722]MapCheck: New page: Map Check
+[2018.11.20-18.56.41:617][722]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.20-18.56.41:617][722]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.20-18.56.41:850][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.20-18.56.41:857][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.11.20-18.56.41:862][722]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.56.41:862][722]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-18.56.41:863][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy W_M, compiling. 
+[2018.11.20-18.56.41:867][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WhiteWall_Mat, compiling. 
+[2018.11.20-18.56.41:873][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WW_M, compiling. 
+[2018.11.20-18.56.41:878][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GLASS_Mat, compiling. 
+[2018.11.20-18.56.41:882][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_Floor_Mat, compiling. 
+[2018.11.20-18.56.41:887][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Post, compiling. 
+[2018.11.20-18.56.41:892][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.11.20-18.56.41:898][722]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-18.56.41:898][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bench_Mat, compiling. 
+[2018.11.20-18.56.41:904][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Chandelier-Mat, compiling. 
+[2018.11.20-18.56.41:909][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sparkle, compiling. 
+[2018.11.20-18.56.41:915][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Flame, compiling. 
+[2018.11.20-18.56.41:921][722]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SIGN_Mat, compiling. 
+[2018.11.20-18.56.42:927][722]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-18.56.42:927][722]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-18.56.42:927][722]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-18.56.42:927][722]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-18.56.42:928][722]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-18.56.42:928][722]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-18.56.42:928][722]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-18.56.42:928][722]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-18.56.42:928][722]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.56.42:928][722]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-18.56.42:928][722]TextureStreamingBuild: Display: Compiling optional shaders took 1.084 seconds.
+[2018.11.20-18.56.43:019][722]LogLevel: Display: Export Material TexCoord Scales took 0.092 seconds.
+[2018.11.20-18.56.43:055][722]TextureStreamingBuild: Display: Build Texture Streaming took 0.036 seconds.
+[2018.11.20-18.56.43:081][722]LightingResults: New page: Lighting Build - Nov 20, 2018, 8:56:43 AM
+[2018.11.20-18.56.43:205][722]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.20-18.56.43:398][722]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.20-18.56.43:410][722]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.20-18.56.44:433][722]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.20-18.56.44:433][722]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17936
+[2018.11.20-18.56.49:060][722]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.11.20-18.56.49:061][722]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.20-18.56.49:061][722]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.20-18.56.49:061][722]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.20-18.56.49:061][722]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.20-18.56.49:061][722]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.20-18.56.49:302][722]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.20-18.56.49:302][722]MapCheck: New page: WPU_Modern - Nov 20, 2018, 8:56:49 AM
+[2018.11.20-18.56.49:302][722]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.11.20-18.56.49:302][722]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2018.11.20-18.56.49:367][722]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 65.335ms to complete.
+[2018.11.20-18.56.49:391][722]LogEditorBuildUtils: Build time 0:07
+[2018.11.20-18.56.49:516][723]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Chandelier-Mat, compiling. 
+[2018.11.20-18.56.49:524][723]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.56.49:524][723]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Chandelier-Mat, compiling. 
+[2018.11.20-18.56.49:551][723]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.56.49:655][724]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Post, compiling. 
+[2018.11.20-18.56.49:663][724]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.56.49:663][724]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Post, compiling. 
+[2018.11.20-18.56.49:957][725]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WhiteWall_Mat, compiling. 
+[2018.11.20-18.56.49:963][725]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.56.49:963][725]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WhiteWall_Mat, compiling. 
+[2018.11.20-18.56.50:662][727]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-18.56.56:607][952]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2018.11.20-18.56.57:068][952]Job has failed! Job is closed while Tasks are still PENDING
+[2018.11.20-18.56.57:072][952]DumpUnbuiltLightIteractions
+[2018.11.20-18.56.57:072][952]Lights with unbuilt interactions: 7
+[2018.11.20-18.56.57:072][952]    Light chandelier_Blueprint6
+[2018.11.20-18.56.57:072][952]    Light chandelier_Blueprint5
+[2018.11.20-18.56.57:072][952]    Light chandelier_Blueprint4
+[2018.11.20-18.56.57:072][952]    Light chandelier_Blueprint3
+[2018.11.20-18.56.57:072][952]    Light chandelier_Blueprint2
+[2018.11.20-18.56.57:072][952]    Light chandelier_Blueprint
+[2018.11.20-18.56.57:072][952]    Light LightSource
+[2018.11.20-18.56.57:072][952]
+[2018.11.20-18.56.57:072][952]Primitives with unbuilt interactions: 137
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.chandelier_Blueprint6.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.chandelier_Blueprint5.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.chandelier_Blueprint4.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.chandelier_Blueprint3.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.chandelier_Blueprint2.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.chandelier_Blueprint.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive ModelComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_1
+[2018.11.20-18.56.57:072][952]    Primitive ModelComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_0
+[2018.11.20-18.56.57:072][952]    Primitive ModelComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_15
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door18.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door17.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.UV_d_Window6.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.UV_d_Window5.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.UV_d_Window4_8.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.UV_d_Window3.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door16.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door15.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive ModelComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.ModelComponent_14
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom17.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom13.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid18.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom12.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid17.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom11.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid16.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom10.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid15.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom9.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid14.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom8.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid13_21.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom7.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid7.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Bench4.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Bench3.StaticMeshComponent0
+[2018.11.20-18.56.57:072][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid9.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom36.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom53.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid33.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom52.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid32.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom51.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid31.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom50.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom49.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom48.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom47.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom46.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom45.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom25.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom24.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid25.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom23.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid24.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid21.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom3_43.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom_Outer2.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom16.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid8.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Bench6.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid6.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid_Inner3.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid5.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid4.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid3.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid_Inner2_42.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid_Outer3.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid_Outer2.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid2.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom6.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom5.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom4.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom_Inner2_32.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom_Outer3_28.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom2_20.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom_Outer_17.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom_11.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid_Outer_8.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid_5.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Bench2.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door12.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door9.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door4.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door3.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Bench5.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Bench_2.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Stair_Post_7.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom44.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom43.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom42.StaticMeshComponent0
+[2018.11.20-18.56.57:073][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom41.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom40.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom39.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom38.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom37.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom35.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom34.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom33.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom29_22.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid30.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom32.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom31.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom30.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom28.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid29.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom27.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid28.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom26.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid27.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid26.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom22.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid23.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid22.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom21.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom20.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom19.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom18.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom15.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid20.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom14.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid19.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid12.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid11.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Mid10.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.UV_d_Window2.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.UV_d_Window_52.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Molding_Bottom_Inner_14.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door14.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door13.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door11.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door10.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door8.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door7.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door6.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door5.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door2.StaticMeshComponent0
+[2018.11.20-18.56.57:074][952]    Primitive StaticMeshComponent /Game/Maps/WPU_Modern.WPU_Modern:PersistentLevel.Enterance_Door_20.StaticMeshComponent0
+[2018.11.20-18.56.57:274][953]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.20-18.56.57:275][953]MapCheck: New page: WPU_Modern - Nov 20, 2018, 8:56:57 AM
+[2018.11.20-18.56.57:275][953]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.11.20-18.56.57:275][953]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2018.11.20-18.56.57:336][953]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 61.619ms to complete.
+[2018.11.20-18.56.58:893][ 41]LogSlate: Window 'Message Log' being destroyed
+[2018.11.20-18.56.58:910][ 41]LogSlate: Window 'Message Log' being destroyed
+[2018.11.20-18.56.59:810][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b22145380, Size=64, Default__FirstPersonExampleMap_C Function /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.20-18.56.59:814][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b22145380, Size=64
+[2018.11.20-18.56.59:814][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b22146c00, Size=64, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_78:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.20-18.56.59:816][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b22145800, Size=64, Default__FirstPersonExampleMap_C Function /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.11.20-18.56.59:844][ 99]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.11.20-18.56.59:932][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b22146c00, Size=64
+[2018.11.20-18.57.03:050][ 99]LogSlate: Window 'Save Content' being destroyed
+[2018.11.20-18.57.03:117][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/WPU_Modern" FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.20-18.57.03:157][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b2bce1960, Size=88
+[2018.11.20-18.57.03:157][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b1da0be80, Size=88, Default__WPU_Modern_C Function /Engine/Transient.REINST_WPU_Modern_C_82:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.57.03:160][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b1da0a2c0, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.57.03:546][ 99]LogSavePackage: Save=401.68ms
+[2018.11.20-18.57.03:546][ 99]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Saved/WPU_ModernE5206AAD4CD504BF4F91DBA2B38BE9C9.tmp' to '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern.umap'
+[2018.11.20-18.57.03:548][ 99]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern.umap
+[2018.11.20-18.57.03:580][ 99]LogFileHelpers: Saving map 'WPU_Modern' took 0.522
+[2018.11.20-18.57.03:581][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/WPU_Modern_BuiltData" FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern_BuiltData.uasset" SILENT=true
+[2018.11.20-18.57.03:593][ 99]LogSavePackage: Save=7.96ms
+[2018.11.20-18.57.03:593][ 99]LogSavePackage: Moving '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Saved/WPU_Modern_BuiltData9A8E7FC3478EF76A08811A88FBE17394.tmp' to '../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern_BuiltData.uasset'
+[2018.11.20-18.57.03:596][ 99]LogSavePackage: Display: Finished SavePackage ../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/WPU_Modern_BuiltData.uasset
+[2018.11.20-18.57.03:597][ 99]Cmd: MAP LOAD FILE="../../../../Users/kakesterke/Desktop/Current Work/HistoricalWPU/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.20-18.57.03:597][ 99]LightingResults: New page: Lighting Build
+[2018.11.20-18.57.03:598][ 99]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2018.11.20-18.57.03:601][ 99]MapCheck: New page: Map Check
+[2018.11.20-18.57.03:601][ 99]LightingResults: New page: Lighting Build
+[2018.11.20-18.57.03:625][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b1da0a2c0, Size=88
+[2018.11.20-18.57.03:625][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b1da0be80, Size=88
+[2018.11.20-18.57.03:633][ 99]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WPU_Modern) is flushing async loading
+[2018.11.20-18.57.03:648][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b351413c0, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.57.03:651][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b351413c0, Size=88
+[2018.11.20-18.57.03:651][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b351413c0, Size=88, Default__WPU_Modern_C Function /Engine/Transient.REINST_WPU_Modern_C_84:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.57.03:653][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b35142440, Size=88, Default__WPU_Modern_C Function /Game/Maps/WPU_Modern.WPU_Modern_C:ExecuteUbergraph_WPU_Modern
+[2018.11.20-18.57.03:711][ 99]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/WPU_Past) is flushing async loading
+[2018.11.20-18.57.03:722][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b2bce3dc0, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.57.03:725][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b2bce3dc0, Size=88
+[2018.11.20-18.57.03:725][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023b2bce3dc0, Size=88, Default__WPU_Past_C Function /Engine/Transient.REINST_WPU_Past_C_86:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.57.03:727][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023bb8a65b40, Size=88, Default__WPU_Past_C Function /Game/Maps/WPU_Past.WPU_Past_C:ExecuteUbergraph_WPU_Past
+[2018.11.20-18.57.03:782][ 99]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.20-18.57.03:808][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b2bce3dc0, Size=88
+[2018.11.20-18.57.03:808][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023b351413c0, Size=88
+[2018.11.20-18.57.03:838][ 99]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.20-18.57.03:893][ 99]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.343ms to complete.
+[2018.11.20-18.57.03:893][ 99]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.297
+[2018.11.20-18.57.07:163][333]MapCheck: New page: Map Check
+[2018.11.20-18.57.08:295][333]LogSlate: Window 'Message' being destroyed
+[2018.11.20-18.57.08:297][333]Cmd: MAP REBUILD ALLVISIBLE
+[2018.11.20-18.57.08:297][333]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.11.20-18.57.08:430][333]MapCheck: Warning: WorldInfo_0 Certain levels are marked as hidden, Hierarchical LODs will not be build for hidden levels.
+[2018.11.20-18.57.08:559][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.11.20-18.57.08:565][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.11.20-18.57.08:570][333]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.57.08:570][333]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-18.57.08:570][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.11.20-18.57.08:576][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.11.20-18.57.08:587][333]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.57.08:587][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.11.20-18.57.08:595][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy W_M, compiling. 
+[2018.11.20-18.57.08:601][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WhiteWall_Mat, compiling. 
+[2018.11.20-18.57.08:607][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WW_M, compiling. 
+[2018.11.20-18.57.08:612][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GLASS_Mat, compiling. 
+[2018.11.20-18.57.08:615][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_Floor_Mat, compiling. 
+[2018.11.20-18.57.08:621][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Post, compiling. 
+[2018.11.20-18.57.08:627][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.11.20-18.57.08:632][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bench_Mat, compiling. 
+[2018.11.20-18.57.08:638][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Chandelier-Mat, compiling. 
+[2018.11.20-18.57.08:643][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Sparkle, compiling. 
+[2018.11.20-18.57.08:649][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Flame, compiling. 
+[2018.11.20-18.57.08:655][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SIGN_Mat, compiling. 
+[2018.11.20-18.57.08:661][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BRICK, compiling. 
+[2018.11.20-18.57.08:666][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BURLAP_Mat, compiling. 
+[2018.11.20-18.57.08:672][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy FLAG_Mat, compiling. 
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.20-18.57.09:876][333]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.20-18.57.09:876][333]TextureStreamingBuild: Display: Compiling optional shaders took 1.320 seconds.
+[2018.11.20-18.57.09:911][333]LogLevel: Display: Export Material TexCoord Scales took 0.035 seconds.
+[2018.11.20-18.57.09:965][333]TextureStreamingBuild: Display: Build Texture Streaming took 0.054 seconds.
+[2018.11.20-18.57.09:991][333]LightingResults: New page: Lighting Build - Nov 20, 2018, 8:57:09 AM
+[2018.11.20-18.57.11:900][333]LogSlate: Window 'Rebuild Lighting - Warning' being destroyed
+[2018.11.20-18.57.11:921][333]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.20-18.57.11:924][333]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.20-18.57.11:924][333]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.20-18.57.11:925][333]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.20-18.57.11:925][333]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17936
+[2018.11.20-18.57.16:460][333]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.20-18.57.16:461][333]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.20-18.57.16:461][333]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.20-18.57.16:461][333]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.20-18.57.16:461][333]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.20-18.57.16:592][333]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.11.20-18.57.16:592][333]MapCheck: New page: FirstPersonExampleMap - Nov 20, 2018, 8:57:16 AM
+[2018.11.20-18.57.16:592][333]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.11.20-18.57.16:593][333]MapCheck: Warning: LightBig_2 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:593][333]MapCheck: Warning: LightBig_2 Static mesh actor LightBig_2 has NULL StaticMesh property 
+[2018.11.20-18.57.16:593][333]MapCheck: Warning: Starter_Background_Cue_2 Ambient sound actor has NULL Sound Cue property 
+[2018.11.20-18.57.16:594][333]MapCheck: Warning: BEDMAT_2 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:594][333]MapCheck: Warning: BEDMAT_2 Static mesh actor BEDMAT_2 has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT2 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT2 Static mesh actor BEDMAT2 has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT3 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT3 Static mesh actor BEDMAT3 has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT4 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT4 Static mesh actor BEDMAT4 has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT5 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT5 Static mesh actor BEDMAT5 has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT6 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT6 Static mesh actor BEDMAT6 has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT7 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT7 Static mesh actor BEDMAT7 has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT8 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT8 Static mesh actor BEDMAT8 has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT9 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:595][333]MapCheck: Warning: BEDMAT9 Static mesh actor BEDMAT9 has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT10 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT10 Static mesh actor BEDMAT10 has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT11 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT11 Static mesh actor BEDMAT11 has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT12 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT12 Static mesh actor BEDMAT12 has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT13 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT13 Static mesh actor BEDMAT13 has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT14 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT14 Static mesh actor BEDMAT14 has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT15 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT15 Static mesh actor BEDMAT15 has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT16 Static mesh actor has NULL StaticMesh property 
+[2018.11.20-18.57.16:596][333]MapCheck: Warning: BEDMAT16 Static mesh actor BEDMAT16 has NULL StaticMesh property 
+[2018.11.20-18.57.16:653][333]MapCheck: Map check complete: 1 Error(s), 35 Warning(s), took 61.159ms to complete.
+[2018.11.20-18.57.16:677][333]LogEditorBuildUtils: Build time 0:09
+[2018.11.20-18.57.19:801][441]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.19:801][441]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.19:878][444]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.19:878][444]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.19:966][448]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.19:966][448]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.20:196][458]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.20:196][458]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.23:126][581]LightingResults: Warning: Stair_Post Object has overlapping UVs.
+[2018.11.20-18.57.23:126][581]LightingResults: Stair_Post Lightmap UV are overlapping by 11.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.27:919][783]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.27:919][783]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:008][786]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.28:008][786]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:206][795]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.28:206][795]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:337][801]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.28:337][801]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:359][802]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.28:359][802]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:480][807]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.28:480][807]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:557][808]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.28:557][808]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:612][810]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.28:612][810]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:699][814]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.28:699][814]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:875][821]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.28:875][821]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.28:941][824]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.28:941][824]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.29:007][827]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.29:007][827]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.29:040][828]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.29:040][828]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.29:226][836]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.29:226][836]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.29:599][849]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.29:599][849]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.29:621][850]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.29:621][850]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.29:818][859]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.29:818][859]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.29:818][859]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.29:862][860]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.29:862][860]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.29:862][860]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.29:950][864]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.29:950][864]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:015][866]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.30:015][866]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:070][868]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.30:070][868]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:212][874]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.30:212][874]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:256][876]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.30:256][876]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:256][876]LightingResults: Warning: Enterance_Door Object has overlapping UVs.
+[2018.11.20-18.57.30:256][876]LightingResults: Enterance_Door Lightmap UV are overlapping by 75.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:322][879]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.30:322][879]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:443][881]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.30:443][881]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:443][881]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.30:443][881]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:465][882]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.30:465][882]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:574][887]LightingResults: Warning: Bed_Frame Object has overlapping UVs.
+[2018.11.20-18.57.30:574][887]LightingResults: Bed_Frame Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.11.20-18.57.30:608][889]Job is a success!
+[2018.11.20-18.57.30:689][890]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.11.20-18.57.30:689][890]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.20-18.57.30:689][890]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2018.11.20-18.57.30:689][890]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.20-18.57.30:689][890]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2018.11.20-18.57.30:689][890]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2018.11.20-18.57.30:689][890]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2018.11.20-18.57.32:175][890]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2018.11.20-18.57.32:375][890]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 32X32)
+[2018.11.20-18.57.32:375][890]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 32X32)
+[2018.11.20-18.57.32:429][890]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2018.11.20-18.57.32:444][890]Lightmass on WK-B7XRPD2: 14.9 sec total, 223 ms importing, 71 ms setup, 1.81 sec photons, 12.8 sec processing, 0 ms extra exporting [317/317 mappings]. Threads: 51.1 sec total, 31.7 sec processing.
+[2018.11.20-18.57.32:493][890]LogStaticLightingSystem: Illumination: 22.4 sec (1.25 sec encoding lightmaps, 249 ms encoding shadowmaps)
+[2018.11.20-18.57.32:493][890]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (2.7 MB streaming, 8.0 MB non-streaming), 12 textures
+[2018.11.20-18.57.32:493][890]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (0.0 MB streaming, 5.3 MB non-streaming), 3 textures
+[2018.11.20-18.57.33:474][890]DumpUnbuiltLightIteractions
+[2018.11.20-18.57.33:474][890]Lights with unbuilt interactions: 0
+[2018.11.20-18.57.33:474][890]
+[2018.11.20-18.57.33:474][890]Primitives with unbuilt interactions: 0
+[2018.11.20-18.57.33:850][890]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.288 s
+[2018.11.20-18.57.33:850][890]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.20-18.57.33:850][890]LogOutputDevice: Error: 
+[2018.11.20-18.57.33:850][890]LogOutputDevice: Error: Ensure condition failed: !bVerifyOnlyCapturing [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Renderer\Private\ReflectionEnvironmentCapture.cpp] [Line: 1399]
+[2018.11.20-18.57.33:850][890]LogOutputDevice: Error: 
+[2018.11.20-18.57.33:850][890]LogOutputDevice: Error: Stack: 
+[2018.11.20-18.57.33:850][890]LogOutputDevice: Error: [Callstack] 0x000000007D67B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.20-18.57.33:850][890]LogOutputDevice: Error: [Callstack] 0x000000007D3DAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.20-18.57.33:850][890]LogOutputDevice: Error: [Callstack] 0x000000007D3EECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x0000000076C4E986 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x0000000076C49863 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x000000007AD3FF6D UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x0000000078D8BA60 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x00000000795153C6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x0000000079586E3C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x0000000079586ED9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x0000000015085EAC UE4Editor.exe!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x0000000015096BD0 UE4Editor.exe!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x0000000015096C4A UE4Editor.exe!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x00000000150A4177 UE4Editor.exe!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x00000000150A5B87 UE4Editor.exe!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x00000000CF913034 KERNEL32.DLL!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: [Callstack] 0x00000000D0481431 ntdll.dll!UnknownFunction []
+[2018.11.20-18.57.33:851][890]LogOutputDevice: Error: 
+[2018.11.20-18.57.33:856][890]LogStats:                SubmitErrorReport -  0.000 s
