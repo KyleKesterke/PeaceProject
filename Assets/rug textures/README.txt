@@ -1,0 +1,1 @@
+Real rug is in Assets / Textured / RUG
