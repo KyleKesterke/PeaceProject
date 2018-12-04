@@ -1,0 +1,948 @@
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 0
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 1
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 2
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 3
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Meshes/BaseMaterial.uasset" 4
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 5
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 6
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 7
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MainMenu.uasset" 8
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FirstPersonBP/Blueprints/MainMenu.uasset" 9
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 10
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 11
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 12
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 13
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 14
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 15
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 16
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 17
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 18
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 19
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 20
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 23
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Particles/Flame.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 26
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Particles/M_Sparkle.uasset" 27
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Particles/Sparkle.uasset" 28
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Particles/SparkleClick.uasset" 29
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Sounds/DING_wave.uasset" 30
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/NoteObjectParent.uasset" 31
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 32
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 33
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 34
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 35
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 36
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 37
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 38
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 39
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 40
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 41
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 42
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 43
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 44
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 45
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 46
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 47
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 48
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 49
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 50
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 51
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 52
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 53
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 54
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 55
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 56
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 57
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 58
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 59
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 60
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 61
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FirstPersonBP/Blueprints/Credits.uasset" 62
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FirstPersonBP/Blueprints/insidea6-copy.uasset" 63
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FirstPersonBP/Blueprints/NoteMenu.uasset" 64
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPersonBP/Blueprints/Credits.uasset" 65
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 66
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 67
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 68
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 69
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 70
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 71
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPersonBP/Blueprints/insidea6-copy.uasset" 72
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPersonBP/Blueprints/LevelSwitchFade.uasset" 73
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPersonBP/Blueprints/NoteMenu.uasset" 74
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/BrickAlpha.uasset" 75
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/BrickAlpha_Mat.uasset" 76
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/lambert1.uasset" 77
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/M_Sparkle.uasset" 78
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/SIGN.uasset" 79
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Wall1.uasset" 80
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/WOODFLOOR.uasset" 81
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/GLASS.uasset" 82
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MainMenu_BG.uasset" 83
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WoodDisp.uasset" 84
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedFrame/BedFrame_H.uasset" 85
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedMat/BM_H.uasset" 86
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/CANDLE/Candle_Height.uasset" 87
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair1/Chair1_Height.uasset" 88
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair2/Chair2_Height.uasset" 89
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair3/Chair3_Height.uasset" 90
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch1/Couch1_Height.uasset" 91
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch2/Couch2_Heigh.uasset" 92
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk1_H.uasset" 93
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk2_H.uasset" 94
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D2_H.uasset" 95
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D3_H.uasset" 96
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/DOOR_H.uasset" 97
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/OilLamp/OL_H.uasset" 98
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/Bitmap2Material_3_Ambient_Occlusion.uasset" 99
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/Bitmap2Material_3_Diffuse.uasset" 100
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/Bitmap2Material_3_Displacement.uasset" 101
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/Bitmap2Material_3_Opacity.uasset" 102
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/Bitmap2Material_3_Specular.uasset" 103
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/CARPET1.uasset" 104
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Window_Tex/WINDOW_H.uasset" 105
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WoodBeam/WoodBeam_Height.uasset" 106
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/CubeMaterial.uasset" 107
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/1M_Cube.uasset" 108
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/1M_Cube_Chamfer.uasset" 109
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Enterance_Door.uasset" 110
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/lambert20.uasset" 111
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/LightBig.uasset" 112
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/OilLamp/OL_C.uasset" 113
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/OilLamp/OL_M.uasset" 114
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/OilLamp/OL_N.uasset" 115
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/OilLamp/OL_O.uasset" 116
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/OilLamp/OL_R.uasset" 117
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/OilLamp.uasset" 118
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Oil_Lamp.uasset" 119
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/polySurface1Mat.uasset" 120
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/SIGN/lambert1.uasset" 121
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/SIGN/Sign_pCube3_Skeleton.uasset" 122
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Sign_pCube3.uasset" 123
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/SIGN/Sign_pCube4_Skeleton.uasset" 124
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Sign_pCube4.uasset" 125
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/TemplateFloor.uasset" 126
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Window.uasset" 127
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/Star.uasset" 128
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/Star_Mat.uasset" 129
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/NoteParticle.uasset" 130
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/StarUnfill.uasset" 131
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Sounds/Future.uasset" 132
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Sounds/Sound_Ding.uasset" 133
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Sounds/Past.uasset" 134
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Sounds/Sound_Past.uasset" 135
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Basic_Wall.uasset" 136
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Pillar_50x500.uasset" 137
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Wall_400x300.uasset" 138
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Wall_400x400.uasset" 139
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Wall_500x500.uasset" 140
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 141
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 142
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Collapse01.uasset" 143
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Collapse02.uasset" 144
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Explosion01.uasset" 145
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Explosion02.uasset" 146
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Fire01.uasset" 147
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Fire_Sparks01.uasset" 148
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Light01.uasset" 149
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Light01_Cue.uasset" 150
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Light02.uasset" 151
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Light02_Cue.uasset" 152
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Smoke01.uasset" 153
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Starter_Birds01.uasset" 154
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Starter_Music01.uasset" 155
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Starter_Wind05.uasset" 156
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Starter_Wind06.uasset" 157
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Steam01.uasset" 158
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Explosion_Cue.uasset" 159
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Burst_M.uasset" 160
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/M_Burst.uasset" 161
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 162
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 163
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 164
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 165
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 166
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 167
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 168
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 169
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/P_Explosion.uasset" 170
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 171
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 172
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 173
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Bush_D.uasset" 174
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Bush_N.uasset" 175
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_Bush.uasset" 176
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Bush.uasset" 177
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Chair_M.uasset" 178
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Chair_N.uasset" 179
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_Chair.uasset" 180
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Couch.uasset" 181
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Glass.uasset" 182
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Door_M.uasset" 183
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Door_N.uasset" 184
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_Door.uasset" 185
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Door.uasset" 186
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 187
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 188
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 189
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 190
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 191
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_RockMesh_M.uasset" 192
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_RockMesh_N.uasset" 193
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_Rock.uasset" 194
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Rock.uasset" 195
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Shelf_M.uasset" 196
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Shelf_N.uasset" 197
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_Shelf.uasset" 198
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Shelf.uasset" 199
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Basic_Floor.uasset" 200
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Stairs.uasset" 201
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Cone.uasset" 202
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 203
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 204
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Pipe.uasset" 205
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 206
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 207
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Plane.uasset" 208
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Torus.uasset" 209
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Trim.uasset" 210
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 211
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 212
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 213
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Tube.uasset" 214
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 215
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 216
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 218
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 219
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 221
+"../../../Engine/Content/BasicShapes/Cone.uasset" 222
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 223
+"../../../Engine/Content/BasicShapes/Cube.uasset" 224
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 225
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 226
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 227
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 228
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 229
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 230
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 231
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 232
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 233
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 234
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 235
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 236
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 237
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 238
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 239
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 240
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 241
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 242
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 243
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 244
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 245
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 246
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 247
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 248
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 249
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 250
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 251
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 252
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 253
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 254
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 255
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 256
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 257
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 258
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 259
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 260
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 261
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 262
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 263
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 264
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 265
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 266
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 267
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 268
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 269
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 270
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 271
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 272
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 273
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 274
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 275
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 276
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 277
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 278
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 279
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 280
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 281
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 282
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 283
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 284
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 285
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 286
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 287
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 288
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 289
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 290
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 291
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 292
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 293
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 294
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 295
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 296
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 297
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 299
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 300
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 301
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 302
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 303
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 304
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 305
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 306
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 307
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 308
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 309
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 310
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 311
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 312
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 313
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 314
+"../../../Engine/Content/EngineResources/Black.uasset" 315
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 316
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 317
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 318
+"../../../Engine/Content/EngineSounds/Master.uasset" 319
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 320
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 321
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 322
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 323
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 324
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 325
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 326
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 327
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 328
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 329
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 330
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 331
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 332
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 333
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 334
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 335
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 336
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 337
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 338
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 339
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 340
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 341
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 342
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 343
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 344
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 345
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 346
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 347
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 348
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 349
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 350
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 351
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 352
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 353
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 354
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 355
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 356
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 357
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 358
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 359
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 360
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 362
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 363
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 364
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 365
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 366
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 367
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 368
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 369
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 370
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 371
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 372
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 373
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 374
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 375
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 376
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 377
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 378
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 379
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 380
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 381
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 382
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 383
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 384
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 385
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 386
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 387
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 388
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 389
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 390
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 391
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 392
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 393
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 394
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 395
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 396
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 397
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 398
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 399
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 400
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 401
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 402
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 403
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 404
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 405
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 406
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 407
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 408
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 409
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 410
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 411
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 412
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 413
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 414
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 415
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 416
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 417
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 418
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 419
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 420
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 421
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 422
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 423
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 424
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 425
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 426
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 427
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 428
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 429
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 430
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 431
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 432
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 433
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 434
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 435
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 436
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 437
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 438
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 439
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 440
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 441
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 442
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 443
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 444
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 445
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 446
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 447
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 448
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 449
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 450
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 451
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 452
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 453
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 454
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 455
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/LightSmall.uasset" 456
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/LightSmall_Blueprint.uasset" 457
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Maps/FirstPersonExampleMap_BuiltData.uasset" 458
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D2_C.uasset" 459
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D2_M.uasset" 460
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D2_N.uasset" 461
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D2_R.uasset" 462
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Door_Painted.uasset" 463
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D3_C.uasset" 464
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D3_M.uasset" 465
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D3_N.uasset" 466
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D3_R.uasset" 467
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Door_Windowless.uasset" 468
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/Rug_C.uasset" 469
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/Rug_R.uasset" 470
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/RugMat.uasset" 471
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Window_Tex/WINDOW_C.uasset" 472
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Window_Tex/WINDOW_M.uasset" 473
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Window_Tex/WINDOW_N.uasset" 474
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Window_Tex/WINDOW_R.uasset" 475
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Window_Mat.uasset" 476
+"../../../Engine/Content/BasicShapes/Plane.uasset" 477
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/pCube5Mat.uasset" 478
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/DOORWHOLE.uasset" 479
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Molding_Bottom.uasset" 480
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Window_Tex/Shutters2Mat.uasset" 481
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/WINDOW_A.uasset" 482
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Widgets/Tutorial0.uasset" 483
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Widgets/Tutorial1.uasset" 484
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Widgets/Tutorial2.uasset" 485
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Widgets/Tutorial3.uasset" 486
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Widgets/Tutorial4.uasset" 487
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Widgets/Welcome.uasset" 488
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Maps/FirstPersonExampleMap.umap" 489
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPersonBP/Blueprints/MainMenu.uasset" 490
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Maps/MainMenu.umap" 491
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Chandelier/C_C.uasset" 492
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Chandelier/C_H.uasset" 493
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Chandelier/C_M.uasset" 494
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Chandelier/C_N.uasset" 495
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Chandelier/C_R.uasset" 496
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Chandelier/Chandelier-Mat.uasset" 497
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Chandelier/chandelier.uasset" 498
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/chandelier_Blueprint.uasset" 499
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/SIGN.uasset" 500
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/SIGN_Mat.uasset" 501
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Sign_pCube3_Skeleton.uasset" 502
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Sign_pCube4_Skeleton.uasset" 503
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Sign.uasset" 504
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/0_NoteSign.uasset" 505
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER7.uasset" 506
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/PeacePainting_Mat.uasset" 507
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/FRAME/FRAME_C.uasset" 508
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/FRAME/FRAME_M.uasset" 509
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/FRAME/FRAME_N.uasset" 510
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/FRAME/FRAME_R.uasset" 511
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Frame_Mat.uasset" 512
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/FRAME.uasset" 513
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/4_Painting.uasset" 514
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER1.uasset" 515
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER1_Mat.uasset" 516
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/6_BuildingPainting.uasset" 517
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/FirstPerson/FirstPersonBP/Blueprints/LevelSwitchFade.uasset" 518
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Maps/WPU_Modern_BuiltData.uasset" 519
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair1/Chair1_Color.uasset" 520
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair1/Chair1_Metal.uasset" 521
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair1/Chair1_Norm.uasset" 522
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair1/Chair1_Rough.uasset" 523
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Chair1.uasset" 524
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair2/Chair2_Color.uasset" 525
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair2/Chair2_Metal.uasset" 526
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair2/Chair2_Normal.uasset" 527
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair2/Chair2_Rough.uasset" 528
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Chair2.uasset" 529
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair3/Chair3_Color.uasset" 530
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair3/Chair3_Metal.uasset" 531
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair3/Chair3_Norm.uasset" 532
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Chair3/Chair3_Rough.uasset" 533
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Chair3.uasset" 534
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch1/Couch1_Color.uasset" 535
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch1/Couch1_Metal.uasset" 536
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch1/Couch1_Norm.uasset" 537
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch1/Couch1_Rough.uasset" 538
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Couch1.uasset" 539
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch2/Couch2_Color.uasset" 540
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch2/Couch2_Metal.uasset" 541
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch2/Couch2_Norm.uasset" 542
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChairAndCouch/Couch2/Couch2_Rough.uasset" 543
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Couch2.uasset" 544
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk1_C.uasset" 545
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk1_M.uasset" 546
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk1_N.uasset" 547
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk1_R.uasset" 548
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Desk_Modern.uasset" 549
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/DOOR_C.uasset" 550
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/DOOR_M.uasset" 551
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/DOOR_N.uasset" 552
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/DOOR_R.uasset" 553
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/FrontDoor_Mat.uasset" 554
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/GLASS_Mat.uasset" 555
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 556
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WoodAO.uasset" 557
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WOODFLOOR.uasset" 558
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WoodNorm.uasset" 559
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WoodSpec.uasset" 560
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Post.uasset" 561
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER2.uasset" 562
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER2_Mat.uasset" 563
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER3.uasset" 564
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER3_Mat.uasset" 565
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER4.uasset" 566
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER4_Mat.uasset" 567
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER5.uasset" 568
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER5_Mat.uasset" 569
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER6.uasset" 570
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/POSTERS/POSTER6_Mat.uasset" 571
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/CARPET_PLAIN.uasset" 572
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/rug_textures/CARPET1_Mat.uasset" 573
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Wall1.uasset" 574
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/W_M.uasset" 575
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/WhiteWall.uasset" 576
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/WhiteWall_Mat.uasset" 577
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Wood_Floor_Mat.uasset" 578
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WhiteWall.uasset" 579
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/WW_M.uasset" 580
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/TV/TV_C.uasset" 581
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/TV/TV_M.uasset" 582
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/TV/TV_R.uasset" 583
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/TV/TV_Mat.uasset" 584
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/TV/TV.uasset" 585
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BenchBase.uasset" 586
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BenchMetalic.uasset" 587
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BenchRough.uasset" 588
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Bench_Mat.uasset" 589
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Bench.uasset" 590
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Cabinet/Cab_C.uasset" 591
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Cabinet/Cab_M.uasset" 592
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Cabinet/Cab_N.uasset" 593
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Cabinet/Cab_R.uasset" 594
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Cabinet.uasset" 595
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Cabinet.uasset" 596
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChestOfDrawers/COD_C.uasset" 597
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChestOfDrawers/COD_M.uasset" 598
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChestOfDrawers/COD_N.uasset" 599
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/ChestOfDrawers/COD_R.uasset" 600
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/ChestofDrawers.uasset" 601
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/COD.uasset" 602
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/DESK1.uasset" 603
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/lambert22.uasset" 604
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Knife_Tray.uasset" 605
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Mirror/M1_C.uasset" 606
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Mirror/M1_M.uasset" 607
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Mirror/M1_N.uasset" 608
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Mirror/M1_R.uasset" 609
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Mirror.uasset" 610
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/MIRROR1.uasset" 611
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Molding_Bottom_Inner.uasset" 612
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Molding_Bottom_Outer.uasset" 613
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Molding_Mid.uasset" 614
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Molding_Mid_Inner.uasset" 615
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Molding_Mid_Outer.uasset" 616
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Parlor_Chair.uasset" 617
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Parlor_Couch.uasset" 618
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Piano/PIANO_C.uasset" 619
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Piano/PIANO_M.uasset" 620
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Piano/PIANO_N.uasset" 621
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Piano/PIANO_R.uasset" 622
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Piano.uasset" 623
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Piano.uasset" 624
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/lambert3.uasset" 625
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/PILLAR_autouv_.uasset" 626
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/RoundTable/RoundTable_C.uasset" 627
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/RoundTable/RoundTable_M.uasset" 628
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/RoundTable/RoundTable_N.uasset" 629
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/RoundTable/RoundTable_R.uasset" 630
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/RoundTable.uasset" 631
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/RoundTable.uasset" 632
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Stair_Post.uasset" 633
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/lambert23.uasset" 634
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Surgical_Tool_Kit.uasset" 635
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/lambert21.uasset" 636
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Tool_Box.uasset" 637
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Particles/FlameParticleSystem.uasset" 638
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Maps/WPU_Modern.umap" 639
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedFrame/BedFrame_C.uasset" 640
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedFrame/BedFrame_M.uasset" 641
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedFrame/BedFrame_N.uasset" 642
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedFrame/BedFrame_R.uasset" 643
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Bedframe.uasset" 644
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedMat/BM_C.uasset" 645
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedMat/BM_M.uasset" 646
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedMat/BM_N.uasset" 647
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BedMat/BM_R.uasset" 648
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/BedMat.uasset" 649
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Bed_Frame.uasset" 650
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/BEDMAT.uasset" 651
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Bed_Blueprint.uasset" 652
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/OilLamp_Glass.uasset" 653
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/OIL_LAMP_2.uasset" 654
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/1_Lamp.uasset" 655
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/FLAG.uasset" 656
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/FLAG_Mat.uasset" 657
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/2_Flag.uasset" 658
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/3_Window.uasset" 659
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Syringe/SYRINGE_C.uasset" 660
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Syringe/SYRINGE_M.uasset" 661
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Syringe/SYRINGE_N.uasset" 662
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Syringe/SYRINGE_R.uasset" 663
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Syringe.uasset" 664
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Syringe/SYRINGE_O.uasset" 665
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/SyringeGlass.uasset" 666
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/SYRINGE.uasset" 667
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/5_Syringe.uasset" 668
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/SAW/Saw_C.uasset" 669
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/SAW/Saw_M.uasset" 670
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/SAW/Saw_N.uasset" 671
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/SAW/Saw_R.uasset" 672
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Saw.uasset" 673
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Saw.uasset" 674
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/NoteObjects/7_Saw.uasset" 675
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/CANDLE/Candle_Color.uasset" 676
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/CANDLE/Candle_Metallic.uasset" 677
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/CANDLE/Candle_Normal_OpenGL.uasset" 678
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/CANDLE/Candle_Roughness.uasset" 679
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Candle_Mat.uasset" 680
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Candle.uasset" 681
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Wall_Candle_Blueprint.uasset" 682
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Maps/WPU_Past_BuiltData.uasset" 683
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BrickAlpha.uasset" 684
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BrickAO.uasset" 685
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BrickDis.uasset" 686
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BrickNorm.uasset" 687
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BrickSpec.uasset" 688
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/BRICK.uasset" 689
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/BURLAP.uasset" 690
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/BURLAP_Mat.uasset" 691
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk2_C.uasset" 692
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk2_M.uasset" 693
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk2_N.uasset" 694
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk/Desk2_R.uasset" 695
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Desk_Past.uasset" 696
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D4_C.uasset" 697
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D4_M.uasset" 698
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D4_N.uasset" 699
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/DOOR_WHOLE/D4_R.uasset" 700
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Door_Wooden.uasset" 701
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WoodBeam/WoodBeam_AO.uasset" 702
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WoodBeam/WoodBeam_Color.uasset" 703
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WoodBeam/WoodBeam_Normal.uasset" 704
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/WoodBeam/WoodBeam_Rough.uasset" 705
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/WoodBeam.uasset" 706
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 707
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk2/DESK2_C.uasset" 708
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk2/DESK2_M.uasset" 709
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk2/DESK2_N.uasset" 710
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/Desk2/DESK2_R.uasset" 711
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Desk2.uasset" 712
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/DESK2.uasset" 713
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P1/Pliers1_C.uasset" 714
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P1/Pliers1_M.uasset" 715
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P1/Pliers1_N.uasset" 716
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P1/Pliers1_R.uasset" 717
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P1/Pliers1.uasset" 718
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Pliers1.uasset" 719
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P2/Pliers2__N.uasset" 720
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P2/Pliers2_C.uasset" 721
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P2/Pliers2_M.uasset" 722
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P2/Pliers2_R.uasset" 723
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P2/Pliers2.uasset" 724
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Pliers2.uasset" 725
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P3/P3_C.uasset" 726
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P3/P3_M.uasset" 727
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P3/P3_N.uasset" 728
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P3/P3_R.uasset" 729
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P3/Pliers3.uasset" 730
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Pliers_3.uasset" 731
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P4/P4_C.uasset" 732
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P4/P4_M.uasset" 733
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P4/P4_N.uasset" 734
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P4/P4_R.uasset" 735
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P4/Pliers4.uasset" 736
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Pliers_4.uasset" 737
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P5/P5_C.uasset" 738
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P5/P5_M.uasset" 739
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P5/P5_N.uasset" 740
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P5/P5_R.uasset" 741
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Materials/Textures/MedicalTools/Pliers/P5/Pliers5.uasset" 742
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Objects/Meshes/Pliers_5.uasset" 743
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/Maps/WPU_Past.umap" 744
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 745
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 746
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 747
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 748
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 749
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 750
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 751
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 752
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 753
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 754
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 755
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 756
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 757
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_AssetPlatform.uasset" 758
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 759
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 760
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 761
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 762
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 763
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 764
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 765
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 766
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Maps/Advanced_Lighting.umap" 767
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 768
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_MacroVariation.uasset" 769
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 770
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 771
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 772
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 773
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 774
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Metal_Copper.uasset" 775
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Statue_M.uasset" 776
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Statue_N.uasset" 777
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 778
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Floor_400x400.uasset" 779
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 780
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Chair.uasset" 781
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_Statue.uasset" 782
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Statue.uasset" 783
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_TableRound_M.uasset" 784
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_TableRound_N.uasset" 785
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_TableRound.uasset" 786
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_TableRound.uasset" 787
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Maps/Minimal_Default.umap" 788
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Fire01_Cue.uasset" 789
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 790
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 791
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 792
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Water_N.uasset" 793
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 794
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 795
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/P_Fire.uasset" 796
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 797
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Smoke01_Cue.uasset" 798
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/P_Smoke.uasset" 799
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 800
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 801
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Spark_Core.uasset" 802
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/M_Spark.uasset" 803
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/P_Sparks.uasset" 804
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 805
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Steam01_Cue.uasset" 806
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/P_Steam_Lit.uasset" 807
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 808
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Lamp_M.uasset" 809
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Lamp_N.uasset" 810
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_Lamp.uasset" 811
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 812
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 813
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 814
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 815
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 816
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 817
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 818
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 819
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 820
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 821
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 822
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 823
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 824
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 825
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 826
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 827
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 828
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 829
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 830
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 831
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 832
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 833
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 834
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 835
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 836
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 837
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 838
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 839
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 840
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 841
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 842
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 843
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 844
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 845
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 846
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 847
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Gradinet_01.uasset" 848
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 849
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 850
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 851
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 852
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 853
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 854
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 855
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 856
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 857
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 858
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 859
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 860
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 861
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 862
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 863
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 864
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 865
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 866
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 867
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 868
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 869
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 870
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Ground_Grass.uasset" 871
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 872
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 873
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 874
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 875
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 876
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Ground_Moss.uasset" 877
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 878
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 879
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Metal_Gold.uasset" 880
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 881
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Metal_Rust.uasset" 882
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 883
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 884
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Metal_Steel.uasset" 885
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 886
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 887
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 888
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 889
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 890
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 891
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 892
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 893
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Rock_Slate.uasset" 894
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 895
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 896
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 897
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 898
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 899
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 900
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 901
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 902
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 903
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 904
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 905
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Tech_Panel.uasset" 906
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Water_Lake.uasset" 907
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Water_M.uasset" 908
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Water_Ocean.uasset" 909
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 910
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 911
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 912
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 913
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 914
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 915
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 916
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 917
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Wood_Oak.uasset" 918
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 919
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 920
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Wood_Pine.uasset" 921
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 922
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 923
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 924
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Wall_400x200.uasset" 925
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 926
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 927
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Collapse_Cue.uasset" 928
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 929
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 930
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 931
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 932
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/MaterialSphere.uasset" 933
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Frame_M.uasset" 934
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Textures/T_Frame_N.uasset" 935
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/Materials/M_Frame.uasset" 936
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_CornerFrame.uasset" 937
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_DoorFrame.uasset" 938
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_GlassWindow.uasset" 939
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_PillarFrame.uasset" 940
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_PillarFrame300.uasset" 941
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Props/SM_WindowFrame.uasset" 942
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Cube.uasset" 943
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 944
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Shapes/Shape_Sphere.uasset" 945
+"../../../../Users/kakesterke/Desktop/Last day/BackUp Build/HistoricalWPU/Content/StarterContent/Maps/StarterMap.umap" 946
+"../../../Engine/Content/Maps/Entry.umap" 947
